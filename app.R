@@ -128,8 +128,11 @@ output$summary <- renderPrint({
 # input$dataset or input$obs is changed
 output$view <- DT::renderDataTable({
     dataset <- datasetInput()
+    # eliminate hybrids, domestics and sp.
     dataset <- dataset[-grep("sp\\.",dataset$comName),]
     dataset <- dataset[-grep("/",dataset$comName),]
+    dataset <- dataset[-grep("hybrid",dataset$comName),]
+    dataset <- dataset[-grep("Domestic",dataset$comName),]
     dataset2 <- datasetInput2()
     hUSunique <- as.data.table(unique(dataset2[,Species]))
     colnames(hUSunique) <- c("comName")
