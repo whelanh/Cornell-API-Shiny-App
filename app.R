@@ -164,7 +164,7 @@ output$view <- DT::renderDataTable({
     comb[,bird:=paste0('<a href="https://www.allaboutbirds.org/guide/',comb[,bird],'" target="_blank">',comb[,bird] ,"</a>")]
     comb <- comb[,.(place,bird,date,map,chklst,N,miles)]
     comb <- comb[order(comb[,miles]),]
-    colnames(comb) <- c("place","bird","date","map","locId","#@hotspot","miles from Ft. Myers")
+    colnames(comb) <- c("place","bird","date","map","locId","#@hotspot","miles from location")
     DT::datatable(comb, escape = F, options = list(pageLength=40))
 })
 
