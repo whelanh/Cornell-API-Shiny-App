@@ -1,0 +1,1038 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Common Ostrich,2,Eastern Serengeti Thomson Enashiva Camp,TZ-01,22 Jul 2017,L6149970,S38465700
+2,Horned Screamer,1,"Saquena, Loreto, PE (-4.475, -73.425)",PE-LOR,05 Mar 2019,L8820134,S53643395
+3,Black-bellied Whistling-Duck,4,Wild Turkey Strand Preserve,US-FL,29 Dec 2017,L1903106,S41410966
+4,Fulvous Whistling-Duck,9,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+5,Snow Goose,1,Fisher Meadows Recreation Area,US-CT,17 Nov 2017,L733301,S40550347
+6,Greater White-fronted Goose,35,"Sitka, Alaska, US (57.012, -135.34)",US-AK,30 Aug 2018,L7876675,S48179644
+7,Brant,1,Fisher Meadows Recreation Area,US-CT,17 Nov 2017,L733301,S40550347
+8,Cackling Goose,1,Field near Farmington Valley Greenway Parking,US-CT,11 Oct 2018,L8020959,S49120475
+9,Canada Goose,2,Hartford Reservoir No. 6,US-CT,10 Aug 2017,L607644,S38574234
+10,Mute Swan,1,Milford Pt. (CT Audubon),US-CT,20 Sep 2017,L109216,S39297714
+11,Trumpeter Swan,20,Crex Meadows SWA,US-WI,25 Jun 2018,L164216,S46796988
+12,Tundra Swan,8,Durand-Eastman Park--Durand Beach,US-NY,27 Nov 2017,L448184,S40778193
+13,Egyptian Goose,3,Central Serengeti Near Thomson Nyumba,TZ-13,27 Jul 2017,L6153177,S38487031
+14,Spur-winged Goose,2,Tarangire NP,TZ-26,31 Jul 2017,L1044008,S38528783
+15,Muscovy Duck,13,"4335-4345 Tufts Avenue, Fort Myers, Florida, US (26.599, -81.879)",US-FL,21 Jan 2018,L6756743,S42121430
+16,Wood Duck,1,Westmoor Park,US-CT,18 Sep 2017,L198655,S39258807
+17,Blue-winged Teal,9,J. N. Ding Darling NWR--Wildlife Drive,US-FL,18 Oct 2017,L823147,S39995185
+18,Cinnamon Teal,6,Amado WTP,US-AZ,19 Sep 2018,L233071,S48634860
+19,Northern Shoveler,,High Acres Nature Area,US-NY,26 Aug 2017,L418669,S38857271
+20,Gadwall,4,Harkness Memorial SP,US-CT,19 Nov 2018,L297947,S50058483
+21,Eurasian Wigeon,1,"Leetes Island Road, Guilford",US-CT,11 May 2018,L3052601,S45556214
+22,American Wigeon,5,Estero Bay Preserve SP--Winkler Point,US-FL,31 Dec 2017,L2589166,S41464521
+23,Mallard,,High Acres Nature Area,US-NY,26 Aug 2017,L418669,S38857271
+24,Mexican Duck,8,San Pedro RNCA--San Pedro House and trails,US-AZ,16 Sep 2018,L129080,S48555858
+25,American Black Duck,5,Hammonasset Beach SP,US-CT,11 Sep 2017,L298379,S39127718
+26,Mottled Duck,4,J. N. Ding Darling NWR--Wildlife Drive,US-FL,20 Aug 2017,L823147,S38729364
+27,Northern Pintail,1,Great Pond State Forest,US-CT,18 Nov 2017,L274772,S40578502
+28,Green-winged Teal,6,Great Pond State Forest,US-CT,18 Nov 2017,L274772,S40578502
+29,Canvasback,10,"Conesus Lake, Vitale Park",US-NY,08 Dec 2018,L637129,S50514469
+30,Redhead,1,Bantam Lake--Point Folly,US-CT,18 Dec 2017,L230744,S41173882
+31,Ring-necked Duck,4,Harns Marsh,US-FL,11 Nov 2017,L830108,S40438561
+32,Tufted Duck,1,Captain's Cove,US-CT,18 Dec 2018,L806220,S50773750
+33,Greater Scaup,1,Bantam Lake--Point Folly,US-CT,18 Dec 2017,L230744,S41173882
+34,Lesser Scaup,4,Estero Bay Preserve SP--Winkler Point,US-FL,11 Jan 2018,L2589166,S41816296
+35,King Eider,1,Waterford Beach,US-CT,11 Jun 2019,L5604368,S57297239
+36,Common Eider,4,Harkness Memorial SP,US-CT,04 Dec 2017,L297947,S40904810
+37,Harlequin Duck,14,"Sitka, Alaska, US (57.012, -135.34)",US-AK,30 Aug 2018,L7876675,S48179644
+38,Surf Scoter,1,"Valdez, Alaska, US (61.02, -148.111)",US-AK,26 Aug 2018,L7863983,S48088358
+39,White-winged Scoter,1,Lynn Hall Memorial Park & Pier,US-FL,30 Jan 2018,L1331461,S42372458
+40,Black Scoter,15,Harkness Memorial SP,US-CT,19 Nov 2018,L297947,S50058483
+41,Long-tailed Duck,11,Irondequoit Bay Outlet (Pier and Marine Park),US-NY,27 Nov 2017,L131149,S40778115
+42,Bufflehead,4,Frances Slocum SP,US-PA,23 Nov 2017,L443823,S40679178
+43,Common Goldeneye,2,Hartford Reservoir No. 6,US-CT,15 Nov 2017,L607644,S40518725
+44,Barrow's Goldeneye,2,"523 Max Italio Drive, Yakutat, Alaska, US (59.547, -139.731)",US-AK,28 Aug 2018,L7871229,S48137867
+45,Hooded Merganser,35,Hartford Reservoir No. 6,US-CT,15 Nov 2017,L607644,S40518725
+46,Common Merganser,5,Hartford Reservoir No. 6,US-CT,29 Sep 2017,L607644,S39453537
+47,Red-breasted Merganser,2,Milford Pt. (CT Audubon),US-CT,20 Nov 2017,L109216,S40633300
+48,Ruddy Duck,7,Fisher Meadows Recreation Area,US-CT,08 Oct 2017,L733301,S39622224
+49,Plain Chachalaca,7,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+50,Gray-headed Chachalaca,5,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+51,Crested Guan,1,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56183552
+52,Black Guan,2,Savegre Hotel,CR-SJ,17 May 2019,L501858,S56395800
+53,Great Curassow,1,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56183552
+54,Helmeted Guineafowl,7,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+55,Northern Bobwhite,1,Alva Scrub #195,US-FL,01 Mar 2018,L2921335,S43289274
+56,Crested Bobwhite,5,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444964
+57,Gambel's Quail,15,Portal--Bob Rodrigues yard (Dave Jasper's old yard),US-AZ,14 Sep 2018,L994658,S48510315
+58,Spotted Wood-Quail,5,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56362616
+59,Indian Peafowl,1,Matheson Hammock Park,US-FL,25 Feb 2018,L127425,S43166649
+60,Red-necked Francolin,2,Northern Serengeti National Park (Mara Region),TZ-13,25 Jul 2017,L6151339,S38474013
+61,Crested Francolin,4,Tarangire NP,TZ-26,31 Jul 2017,L1044008,S38528783
+62,Ring-necked Pheasant,1,Frances Slocum SP,US-PA,25 Nov 2017,L443823,S40718067
+63,Ruffed Grouse,1,"S6789 Burma Road, Baraboo, Wisconsin, US (43.411, -89.746)",US-WI,24 Jun 2018,L7620214,S46773724
+64,Spruce Grouse,1,Seven Devils Trail,US-ID,13 Aug 2008,L7615456,S46751521
+65,Wild Turkey,2,Cold Spring Reservoir,US-CT,07 Sep 2017,L6250677,S39057438
+66,American Flamingo,1,St. Marks NWR--Stoney Bayou 2,US-FL,02 May 2019,L582780,S55680487
+67,Lesser Flamingo,,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+68,Least Grebe,1,Peaceful Waters Sanctuary,US-FL,13 Apr 2019,L1017638,S54902974
+69,Pied-billed Grebe,2,Six Mile Cypress Slough Preserve,US-FL,10 Jan 2017,L424819,S38539010
+70,Horned Grebe,3,"3401 Tropical Point Drive, Saint James City, Florida, US (26.547, -82.081)",US-FL,29 Jan 2018,L6795889,S42344272
+71,Red-necked Grebe,5,Crex Meadows SWA,US-WI,25 Jun 2018,L164216,S46796988
+72,Rock Pigeon,,Coors Field (restricted access),US-CO,03 Sep 2017,L3788878,S38983949
+73,Pale-vented Pigeon,1,"Unnamed Road, Provincia de Coclé, PA (8.477, -80.246)",PA-2,10 Apr 2018,L7203723,S44444887
+74,Scaled Pigeon,3,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506637
+75,White-crowned Pigeon,2,"1001 James Street, Key West, Florida, US (24.561, -81.798)",US-FL,22 Mar 2018,L7104085,S43867437
+76,Red-billed Pigeon,4,"Villa San Ignacio, Alajuela",CR-A,09 May 2019,L1144236,S56038518
+77,Band-tailed Pigeon,14,"Calle San Gerardo, Provincia de Cartago, CR (9.596, -83.798)",CR-C,15 May 2019,L9274084,S56322745
+78,Ruddy Pigeon,2,Savegre Mt. Lodge--primary forest trails above lodge,CR-SJ,16 May 2019,L1456996,S56355292
+79,Eurasian Collared-Dove,2,I95 Florida Welcome Centre,US-FL,15 Oct 2017,L3479704,S39931211
+80,Mourning Collared-Dove,1,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+81,Laughing Dove,1,Tarangire NP,TZ-26,31 Jul 2017,L1044008,S38528783
+82,Namaqua Dove,2,Tarangire NP,TZ-26,31 Jul 2017,L1044008,S38528783
+83,Inca Dove,1,Portal--Cave Creek Ranch,US-AZ,15 Sep 2018,L324045,S48533304
+84,Common Ground Dove,1,J. N. Ding Darling NWR--Wildlife Drive,US-FL,20 Aug 2017,L823147,S38729364
+85,Plain-breasted Ground Dove,1,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444950
+86,Ruddy Ground Dove,2,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+87,Croaking Ground Dove,2,Huaca Pucllana,PE-LIM,03 Mar 2019,L3142542,S53322791
+88,Blue Ground Dove,2,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.369, -80.226)",PA-2,10 Apr 2018,L7203779,S44445081
+89,Key West Quail-Dove,1,Dr. Von D. Mizell-Eula Johnson SP,US-FL,22 Apr 2019,L5744252,S55259950
+90,White-tipped Dove,2,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+91,Gray-chested Dove,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+92,West Peruvian Dove,13,"1301 Avenida Jose Larco, Miraflores, Gobierno Regional de Lima, PE (-12.131, -77.03)",PE-LIM,03 Mar 2019,L8727366,S53315045
+93,White-winged Dove,1,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,15 Jan 2018,L6724846,S41948244
+94,Eared Dove,1,"1301 Avenida Jose Larco, Miraflores, Gobierno Regional de Lima, PE (-12.131, -77.03)",PE-LIM,03 Mar 2019,L8727366,S53315045
+95,Mourning Dove,2,"14 Sunny Slope Drive, West Hartford, Connecticut, US (41.78, -72.744)",US-CT,07 Aug 2017,L6161564,S38529035
+96,African Green-Pigeon,7,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+97,Kori Bustard,1,Eastern Serengeti Thomson Enashiva Camp,TZ-01,22 Jul 2017,L6149970,S38465700
+98,White-bellied Bustard,3,Northern Serengeti National Park (Mara Region),TZ-13,26 Jul 2017,L6151339,S38483682
+99,Bare-faced Go-away-bird,2,Eastern Serengeti Thomson Enashiva Camp,TZ-01,24 Jul 2017,L6149970,S38470164
+100,Greater Ani,2,"Saquena, Loreto, PE (-4.523, -73.447)",PE-LOR,06 Mar 2019,L8820146,S53643454
+101,Smooth-billed Ani,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+102,Groove-billed Ani,2,"Unnamed Road, El Valle de Antón, Provincia de Coclé, PA (8.539, -80.199)",PA-2,10 Apr 2018,L7203716,S44444850
+103,Striped Cuckoo,1,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.333, -80.212)",PA-2,10 Apr 2018,L7203757,S44445011
+104,Greater Roadrunner,2,"State Line Road, San Simon, Arizona, US (31.869, -109.049)",US-NM,16 Sep 2018,L7931631,S48542160
+105,White-browed Coucal,1,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+106,Squirrel Cuckoo,2,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+107,Dark-billed Cuckoo,1,West Delray Regional Park,US-FL,10 Feb 2019,L1427512,S52548955
+108,Yellow-billed Cuckoo,1,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+109,Mangrove Cuckoo,2,Rookery Bay NERR,US-FL,11 Jul 2018,L2528252,S47128547
+110,Black-billed Cuckoo,1,Westmoor Park,US-CT,16 May 2018,L198655,S45730228
+111,Common Nighthawk,2,Fish Lake SWA,US-WI,25 Jun 2018,L252443,S46802223
+112,Common Pauraque,1,Estero Llano Grande SP WBC (LTC 054),US-TX,07 Oct 2019,L259855,S60426434
+113,Ladder-tailed Nightjar,1,"Nauta, Loreto, PE (-4.598, -73.668)",PE-LOR,06 Mar 2019,L8820172,S53643536
+114,Chuck-will's-widow,2,Babcock-Webb WMA,US-FL,19 Mar 2018,L127396,S43783871
+115,Eastern Whip-poor-will,5,Fish Lake SWA,US-WI,25 Jun 2018,L252443,S46802223
+116,Great Potoo,1,"Fernando Lores, Loreto, PE (-4.374, -73.402)",PE-LOR,05 Mar 2019,L8820126,S53643355
+117,White-collared Swift,5,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+118,Chimney Swift,,High Acres Nature Area,US-NY,26 Aug 2017,L418669,S38857271
+119,Vaux's Swift,2,Walker Canyon,US-AZ,19 Sep 2018,L1051139,S48634956
+120,Short-tailed Swift,1,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+121,Band-rumped Swift,3,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+122,Costa Rican Swift,1,"(8.719, -83.165)",CR-P,11 May 2019,L9247351,S56152235
+123,Alpine Swift,1,"1 Louis Vincent Street, Jerusalem (31.79, 35.229)",IL-JM,03 Sep 2019,L9872486,S59481367
+124,Fork-tailed Palm-Swift,5,"Saquena, Loreto, PE (-4.475, -73.425)",PE-LOR,05 Mar 2019,L8820134,S53643395
+125,White-necked Jacobin,2,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506637
+126,White-tipped Sicklebill,4,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+127,Bronzy Hermit,1,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56183552
+128,Rufous-breasted Hermit,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+129,White-bearded Hermit,1,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+130,Green Hermit,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+131,Long-billed Hermit,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506368
+132,Stripe-throated Hermit,1,Canopy Lodge,PA-2,11 Apr 2018,L604642,S44476533
+133,Lesser Violetear,2,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+134,Purple-crowned Fairy,1,Villa Lapas,CR-P,10 May 2019,L585101,S56077401
+135,Green-breasted Mango,1,San Isidro de El General,CR-SJ,15 May 2019,L3281878,S56322824
+136,Black-throated Mango,1,"Saquena, Loreto, PE (-4.506, -73.422)",PE-LOR,05 Mar 2019,L8820142,S53643426
+137,Veraguan Mango,1,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444964
+138,Green-crowned Brilliant,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+139,Rivoli's Hummingbird,1,Cave Creek Canyon--Southwestern Research Station,US-AZ,15 Sep 2018,L129102,S48533218
+140,Talamanca Hummingbird,5,La Georgina,CR-C,15 May 2019,L1126285,S56322811
+141,Long-billed Starthroat,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+142,Fiery-throated Hummingbird,10,La Georgina,CR-C,15 May 2019,L1126285,S56322811
+143,Blue-throated Mountain-gem,2,Cave Creek Canyon--Southwestern Research Station,US-AZ,15 Sep 2018,L129102,S48533218
+144,White-throated Mountain-gem,1,"Calle San Gerardo, Provincia de Cartago, CR (9.596, -83.798)",CR-C,15 May 2019,L9274084,S56322745
+145,Lucifer Hummingbird,1,Ash Canyon B&B (closed effective 7 October 2019),US-AZ,16 Sep 2018,L199300,S48549128
+146,Ruby-throated Hummingbird,1,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,19 Jan 2018,L6724846,S42067465
+147,Black-chinned Hummingbird,1,Cave Creek Canyon--Southwestern Research Station,US-AZ,15 Sep 2018,L129102,S48533218
+148,Anna's Hummingbird,2,Vancouver--Van Dusen Gardens,CA-BC,06 Sep 2018,L367682,S48330221
+149,Costa's Hummingbird,1,Montosa Canyon--km 1 (culvert area),US-AZ,18 Sep 2018,L281844,S48604543
+150,Broad-tailed Hummingbird,1,Portal--Cave Creek Ranch,US-AZ,15 Sep 2018,L324045,S48533304
+151,Rufous Hummingbird,4,Portal--Bob Rodrigues yard (Dave Jasper's old yard),US-AZ,14 Sep 2018,L994658,S48510315
+152,Allen's Hummingbird,1,"1076 Myrtle Way, San Diego, California, US (32.743, -117.154)",US-CA,23 Sep 2018,L7953802,S48699201
+153,Volcano Hummingbird,1,"Calle San Gerardo, Provincia de Cartago, CR (9.596, -83.798)",CR-C,15 May 2019,L9274084,S56322745
+154,Scintillant Hummingbird,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+155,Garden Emerald,2,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+156,Broad-billed Hummingbird,1,Ash Canyon B&B (closed effective 7 October 2019),US-AZ,16 Sep 2018,L199300,S48549128
+157,Violet-headed Hummingbird,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44392862
+158,Scaly-breasted Hummingbird,1,"Unknown Location - (9.793, -84.602)",CR-P,10 May 2019,L9236203,S56085418
+159,White-vented Plumeleteer,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44407315
+160,Crowned Woodnymph,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+161,Stripe-tailed Hummingbird,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+162,Snowcap,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+163,Amazilia Hummingbird,2,"1301 Avenida Jose Larco, Miraflores, Gobierno Regional de Lima, PE (-12.131, -77.03)",PE-LIM,03 Mar 2019,L8727366,S53315045
+164,Glittering-throated Emerald,2,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+165,Blue-chested Hummingbird,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+166,Charming Hummingbird,1,Hacienda Baru,CR-P,11 May 2019,L448818,S56132934
+167,Blue-vented Hummingbird,1,"Villa San Ignacio, Alajuela",CR-A,09 May 2019,L1144236,S56038518
+168,Snowy-bellied Hummingbird,1,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+169,Rufous-tailed Hummingbird,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44406870
+170,Buff-bellied Hummingbird,3,Frontera Audubon Center (LTC 058),US-TX,06 Oct 2019,L209876,S60404778
+171,Cinnamon Hummingbird,1,"Autopista General Cañas, Heredia, CR (9.979, -84.162)",CR-H,18 May 2019,L9290185,S56438165
+172,Violet-crowned Hummingbird,5,Paton Center for Hummingbirds (Patons' Yard),US-AZ,18 Sep 2018,L247122,S48604547
+173,Sapphire-throated Hummingbird,1,"Calle Arroyo, Río Hato, Provincia de Coclé, PA (8.381, -80.109)",PA-2,10 Apr 2018,L7203789,S44445138
+174,Hoatzin,2,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+175,King Rail,2,Fakahatchee Strand Preserve SP--Janes Scenic Drive,US-FL,28 Feb 2018,L127405,S43259542
+176,Clapper Rail,1,Sandy Point,US-CT,27 Sep 2017,L109233,S39417354
+177,Virginia Rail,1,Babcock-Webb WMA,US-FL,31 Dec 2018,L127396,S51123496
+178,Giant Wood-Rail,1,Bailey Homestead Wetlands Preserve,US-FL,18 Jan 2018,L6595361,S42045816
+179,Gray-cowled Wood-Rail,3,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+180,Sora,1,"1032-1570 Raymond Road, Sarasota, Florida, US (27.321, -82.435)",US-FL,15 Jan 2018,L6721858,S41930304
+181,Common Gallinule,1,Six Mile Cypress Slough Preserve,US-FL,29 Jan 2017,L424819,S34013446
+182,American Coot,1,Lakes Regional Park,US-FL,28 Oct 2017,L305312,S40168176
+183,Purple Gallinule,1,Lake Trafford--Annie Olesky Park,US-FL,28 Jan 2017,L782931,S38686694
+184,Gray-headed Swamphen,4,Harns Marsh,US-FL,11 Nov 2017,L830108,S40438561
+185,Black Crake,6,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+186,Yellow Rail,1,"100 Coulter Street, Old Saybrook, Connecticut, US (41.297, -72.367)",US-CT,22 May 2019,L9324685,S56641351
+187,White-throated Crake,2,"(8.719, -83.165)",CR-P,11 May 2019,L9247351,S56152235
+188,Limpkin,1,Six Mile Cypress Slough Preserve,US-FL,12 Aug 2017,L424819,S38601114
+189,Gray Crowned-Crane,,Ngorongoro Conservation Area--Ngorongoro Crater,TZ-01,29 Jul 2017,L951508,S38489237
+190,Sandhill Crane,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,16 Feb 2015,L6319667,S39398621
+191,Whooping Crane,2,"813 Lake Altur Road, Lake Wales, Florida, US (27.884, -81.645)",US-FL,24 Feb 2019,L8693685,S53099831
+192,Black-necked Stilt,1,Wakodahatchee Wetlands,US-FL,05 Mar 2018,L143084,S43408258
+193,American Avocet,10,Myakka River SP--Birdwalk,US-FL,15 Jan 2018,L882829,S41935245
+194,American Oystercatcher,3,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+195,Black Oystercatcher,1,"(61.079, -148.153)",US-AK,26 Aug 2018,L7864630,S48092823
+196,Black-bellied Plover,2,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+197,American Golden-Plover,1,Milford Pt. (CT Audubon),US-CT,15 Sep 2019,L109216,S59823001
+198,Long-toed Lapwing,3,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+199,Spur-winged Lapwing,4,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+200,Crowned Lapwing,2,Eastern Serengeti Thomson Enashiva Camp,TZ-01,22 Jul 2017,L6149970,S38465700
+201,Southern Lapwing,2,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+202,Snowy Plover,1,San Carlos Bay/Bunche Beach Preserve,US-FL,28 Jan 2018,L301036,S42312456
+203,Wilson's Plover,1,San Carlos Bay/Bunche Beach Preserve,US-FL,22 Oct 2017,L301036,S40061730
+204,Semipalmated Plover,,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+205,Piping Plover,3,San Carlos Bay/Bunche Beach Preserve,US-FL,22 Oct 2017,L301036,S40061730
+206,Killdeer,1,Fisher Meadows Recreation Area,US-CT,29 Aug 2017,L733301,S38889848
+207,African Jacana,5,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+208,Northern Jacana,2,"3, Ánimas, Alajuela Province, CR (10.008, -84.291)",CR-A,09 May 2019,L9230984,S56053495
+209,Wattled Jacana,3,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.369, -80.226)",PA-2,10 Apr 2018,L7203744,S44444979
+210,Upland Sandpiper,7,"1237 Northwest 25th Terrace, Cape Coral, Florida, US (26.7, -82.001)",US-FL,19 Apr 2018,L7246411,S44722139
+211,Whimbrel,2,"Unnamed Road, El Chirú, PA (8.317, -80.205)",PA-2,10 Apr 2018,L7203760,S44445026
+212,Long-billed Curlew,1,Bayfront Park (J St.),US-CA,22 Sep 2018,L827977,S48678826
+213,Marbled Godwit,1,San Carlos Bay/Bunche Beach Preserve,US-FL,03 Oct 2017,L301036,S39536546
+214,Ruddy Turnstone,1,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+215,Black Turnstone,8,Prince Rupert area around Court House and Sunken Garden,CA-BC,03 Sep 2018,L7907673,S48277272
+216,Red Knot,43,San Carlos Bay/Bunche Beach Preserve,US-FL,28 Jan 2018,L301036,S42312456
+217,Stilt Sandpiper,50,Estero Llano Grande SP WBC (LTC 054),US-TX,07 Oct 2019,L259855,S60426434
+218,Sanderling,,Milford Pt. (CT Audubon),US-CT,20 Sep 2017,L109216,S39297714
+219,Dunlin,1,San Carlos Bay/Bunche Beach Preserve,US-FL,22 Oct 2017,L301036,S40061730
+220,Rock Sandpiper,1,Queen Charlotte Sound,CA-BC,04 Sep 2018,L2357800,S48300693
+221,Purple Sandpiper,14,Harkness Memorial SP,US-CT,04 Dec 2017,L297947,S40904810
+222,Baird's Sandpiper,1,Sandy Point,US-CT,25 Sep 2019,L109233,S60102184
+223,Least Sandpiper,11,Fisher Meadows Recreation Area,US-CT,29 Aug 2017,L733301,S38889848
+224,White-rumped Sandpiper,1,Hammonasset Beach SP--West End,US-CT,12 Aug 2018,L109205,S47808294
+225,Buff-breasted Sandpiper,1,Hammonasset Beach SP--West End,US-CT,28 Aug 2019,L109205,S59328311
+226,Pectoral Sandpiper,3,Hammonasset Beach SP--West End,US-CT,12 Aug 2018,L109205,S47808294
+227,Semipalmated Sandpiper,3,Milford Pt. (CT Audubon),US-CT,20 Sep 2017,L109216,S39297714
+228,Western Sandpiper,2,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+229,Short-billed Dowitcher,3,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+230,Long-billed Dowitcher,35,"8543-9143 Palmer Boulevard, Sarasota, Florida, US (27.314, -82.398)",US-FL,15 Jan 2018,L6722017,S41931184
+231,American Woodcock,1,Frances Slocum SP,US-PA,25 May 2019,L443823,S56716993
+232,Wilson's Snipe,3,Wild Turkey Strand Preserve,US-FL,29 Dec 2017,L1903106,S41410966
+233,Wilson's Phalarope,1,Hammonasset Beach SP--West End,US-CT,23 May 2019,L109205,S56658550
+234,Red-necked Phalarope,1,Portland Fairgrounds,US-CT,28 May 2018,L759432,S46109509
+235,Red Phalarope,1,BBC Pelagic 22 Sep 2019 - leg I,US-MA,22 Sep 2019,L9950592,S60066280
+236,Spotted Sandpiper,1,Hartford Reservoir No. 6,US-CT,10 Aug 2017,L607644,S38574234
+237,Solitary Sandpiper,1,Fisher Meadows Recreation Area,US-CT,29 Aug 2017,L733301,S38889848
+238,Greater Yellowlegs,1,J. N. Ding Darling NWR--Wildlife Drive,US-FL,20 Aug 2017,L823147,S38729364
+239,Willet,8,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+240,Lesser Yellowlegs,2,Great Pond Trail,US-CT,08 Sep 2017,L2128535,S39063358
+241,South Polar Skua,1,"(40.8959,-69.5293) - J",US-MA,22 Sep 2019,L9947957,S60066273
+242,Pomarine Jaeger,1,"Florida, US (24.635, -81.905)",US-FL,22 Mar 2018,L7110886,S43871703
+243,Parasitic Jaeger,2,Orient Point to New London Ferry (NY side),US-NY,27 Jul 2018,L1358358,S47484436
+244,Long-tailed Jaeger,1,BBC Pelagic 22 Sep 2019 - leg E,US-MA,22 Sep 2019,L9950577,S60195284
+245,Common Murre,11,"Steuben, Maine, US (44.352, -67.886)",US-ME,01 Jul 2018,L7657861,S46940153
+246,Razorbill,7,"Steuben, Maine, US (44.352, -67.886)",US-ME,01 Jul 2018,L7657861,S46940153
+247,Black Guillemot,2,Rachael Carson Preserve,US-ME,30 Jun 2018,L7260275,S46911833
+248,Pigeon Guillemot,1,"Pelican, Alaska, US (58.184, -136.377)",US-AK,29 Aug 2018,L7872713,S48150456
+249,Marbled Murrelet,1,"Seward--Marathon Campground, Seward Waterfront Pk.",US-AK,24 Aug 2018,L2752419,S48050667
+250,Cassin's Auklet,1,"(59.758, -142.947)",US-AK,27 Aug 2018,L7867919,S48113601
+251,Rhinoceros Auklet,2,"(59.758, -142.947)",US-AK,27 Aug 2018,L7867919,S48113601
+252,Atlantic Puffin,12,"Boat Trip, New Harbor - Eastern Egg Rock (crossing ONLY, not harbor or island)",US-ME,30 Jun 2018,L3780865,S46938607
+253,Tufted Puffin,5,"Seward, Alaska, US (59.914, -149.383)",US-AK,25 Aug 2018,L7861696,S48074481
+254,Black-legged Kittiwake,2,Seward--Small Boat Harbor,US-AK,24 Aug 2018,L4891872,S48045541
+255,Sabine's Gull,1,BBC Pelagic 21 Sep 2019 - leg A,US-MA,21 Sep 2019,L9950520,S60066360
+256,Bonaparte's Gull,15,North Point Park,US-WI,28 Jun 2018,L169152,S46858715
+257,Black-headed Gull,1,Short Beach Park,US-CT,10 Sep 2019,L249800,S59659287
+258,Laughing Gull,1,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+259,Franklin's Gull,6,Minnesota Landscape Arboretum,US-MN,05 Aug 2018,L1049490,S47672904
+260,Belcher's Gull,1,"1301 Avenida Jose Larco, Miraflores, Gobierno Regional de Lima, PE (-12.131, -77.03)",PE-LIM,03 Mar 2019,L8727366,S53315045
+261,Heermann's Gull,6,"1830 Avenida Del Mundo, Coronado, California, US (32.674, -117.172)",US-CA,23 Sep 2018,L7954413,S48704224
+262,Mew Gull,2,"(58.194, -136.347)",US-AK,29 Aug 2018,L7873524,S48158686
+263,Ring-billed Gull,1,Hartford Reservoir No. 6,US-CT,10 Aug 2017,L607644,S38574234
+264,Western Gull,23,Bayfront Park (J St.),US-CA,22 Sep 2018,L827977,S48678826
+265,California Gull,1,"Front Street, Alert Bay, British Columbia, CA (50.593, -126.941)",CA-BC,05 Sep 2018,L7897332,S48313285
+266,Herring Gull,1,Hammonasset Beach SP,US-CT,11 Sep 2017,L298379,S39127718
+267,Armenian Gull,1,"Shlomo Lahat Promenade, Tel Aviv-Yafo, Tel Aviv District, IL (32.086, 34.766)",IL-TA,05 Sep 2019,L9878983,S59525840
+268,Iceland Gull,1,Harkness Memorial SP,US-CT,04 Dec 2017,L297947,S40904810
+269,Lesser Black-backed Gull,1,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+270,Glaucous-winged Gull,2,Seward--Small Boat Harbor,US-AK,24 Aug 2018,L4891872,S48045541
+271,Great Black-backed Gull,2,Hammonasset Beach SP,US-CT,11 Sep 2017,L298379,S39127718
+272,Brown Noddy,50,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+273,Sooty Tern,90,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+274,Bridled Tern,1,"US (28.432, -80.259)",US-FL,19 May 2018,L7441320,S45872336
+275,Least Tern,50,Coconut Island,US-FL,27 Apr 2018,L7292449,S44990150
+276,Yellow-billed Tern,40,"Iquitos, Loreto, PE (-3.723, -73.237)",PE-LOR,04 Mar 2019,L8820095,S53643222
+277,Large-billed Tern,13,"Iquitos, Loreto, PE (-3.723, -73.237)",PE-LOR,04 Mar 2019,L8820095,S53643222
+278,Gull-billed Tern,1,Orlando Wetlands Park,US-FL,22 Jan 2019,L452007,S51929757
+279,Caspian Tern,2,San Carlos Bay/Bunche Beach Preserve,US-FL,31 Oct 2017,L301036,S40243285
+280,Black Tern,2,"US (28.432, -80.259)",US-FL,19 May 2018,L7441320,S45872336
+281,Roseate Tern,4,"Boat Trip, New Harbor - Eastern Egg Rock (crossing ONLY, not harbor or island)",US-ME,30 Jun 2018,L3780865,S46938607
+282,Common Tern,1,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+283,Arctic Tern,3,"Boat Trip, New Harbor - Eastern Egg Rock (crossing ONLY, not harbor or island)",US-ME,30 Jun 2018,L3780865,S46938607
+284,Forster's Tern,,Indian Town Harbor,US-CT,16 Sep 2017,L6277322,S39234078
+285,Royal Tern,,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+286,Sandwich Tern,3,Bowditch Point Park,US-FL,26 Oct 2017,L337347,S40129407
+287,Black Skimmer,8,San Carlos Bay/Bunche Beach Preserve,US-FL,31 Oct 2017,L301036,S40243285
+288,Sunbittern,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+289,Red-throated Loon,2,Stratford Point,US-CT,20 Nov 2017,L611064,S40631987
+290,Pacific Loon,1,"Sitka, Alaska, US (57.012, -135.34)",US-AK,30 Aug 2018,L7876675,S48179644
+291,Common Loon,1,Milford Pt. (CT Audubon),US-CT,20 Nov 2017,L109216,S40633300
+292,Black-footed Albatross,1,"(59.738, -144.025)",US-AK,27 Aug 2018,L7867758,S48112532
+293,Wilson's Storm-Petrel,2,"Unknown Location - (28.363, -80.234)",US-FL,19 May 2018,L7440231,S45866309
+294,White-faced Storm-Petrel,1,BBC Pelagic 22 Sep 2019 - leg G,US-MA,22 Sep 2019,L9950589,S60066291
+295,Fork-tailed Storm-Petrel,1,"US (59.797, -148.857)",US-AK,25 Aug 2018,L7861902,S48075697
+296,Leach's Storm-Petrel,1,BBC Pelagic 21 Sep 2019 - leg G,US-MA,21 Sep 2019,L9950529,S60066336
+297,Band-rumped Storm-Petrel,1,"(28.586, -79.9)",US-FL,19 May 2018,L7441083,S45870969
+298,Northern Fulmar,1,"Steuben, Maine, US (44.352, -67.886)",US-ME,01 Jul 2018,L7657861,S46940153
+299,Bermuda Petrel,1,BBC Pelagic 21 Sep 2019 - leg K,US-MA,21 Sep 2019,L9950553,S60066325
+300,Black-capped Petrel,1,"(28.586, -79.9)",US-FL,19 May 2018,L7441083,S45870969
+301,Cory's Shearwater,1,Orient Point to New London Ferry (NY side),US-NY,27 Jul 2018,L1358358,S47484436
+302,Pink-footed Shearwater,1,Queen Charlotte Sound,CA-BC,04 Sep 2018,L2357800,S48297871
+303,Great Shearwater,2,"Steuben, Maine, US (44.352, -67.886)",US-ME,01 Jul 2018,L7657861,S46940153
+304,Buller's Shearwater,2,"(59.738, -144.025)",US-AK,27 Aug 2018,L7867758,S48112532
+305,Sooty Shearwater,2,"(59.792, -144.65)",US-AK,27 Aug 2018,L7867119,S48108471
+306,Audubon's Shearwater,1,Yankee Freedom III route,US-FL,22 Mar 2018,L7111086,S43910369
+307,Saddle-billed Stork,1,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+308,Marabou Stork,6,"Serengeti National Park, Tanzania",TZ-22,24 Jul 2017,L6151126,S38472765
+309,Wood Stork,1,"13652-13682 Fiddlesticks Boulevard, Fort Myers, Florida, US (26.545, -81.804)",US-FL,11 Aug 2017,L6172662,S38592407
+310,Yellow-billed Stork,1,Northern Serengeti National Park (Mara Region),TZ-13,25 Jul 2017,L6151339,S38474013
+311,Magnificent Frigatebird,12,Bowmans Beach Regional Park,US-FL,07 Nov 2017,L476488,S40366295
+312,Masked Booby,62,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+313,Brown Booby,1,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+314,Northern Gannet,2,"(44.168, -67.681)",US-ME,01 Jul 2018,L7658187,S46942070
+315,Anhinga,5,Six Mile Cypress Slough Preserve,US-FL,29 Oct 2016,L424819,S38539035
+316,Pelagic Cormorant,1,"1200 4th Avenue, Seward, Alaska, US (60.115, -149.437)",US-AK,24 Aug 2018,L7858079,S48053709
+317,Great Cormorant,5,Harkness Memorial SP,US-CT,19 Nov 2018,L297947,S50058483
+318,Neotropic Cormorant,2,"Unnamed Road, El Chirú, PA (8.317, -80.205)",PA-2,10 Apr 2018,L7203760,S44445026
+319,Double-crested Cormorant,2,Hartford Reservoir No. 6,US-CT,10 Aug 2017,L607644,S38574234
+320,American White Pelican,11,Lovers Key SP,US-FL,26 Oct 2017,L160668,S40131693
+321,Brown Pelican,,Hurricane Bay,US-FL,10 Oct 2015,L6189690,S38686627
+322,Peruvian Pelican,4,"1301 Avenida Jose Larco, Miraflores, Gobierno Regional de Lima, PE (-12.131, -77.03)",PE-LIM,03 Mar 2019,L8727366,S53315045
+323,Great White Pelican,,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+324,Hamerkop,2,"Serengeti National Park, Tanzania",TZ-22,24 Jul 2017,L6151126,S38472765
+325,American Bittern,1,Lake Trafford--Annie Olesky Park,US-FL,28 Jan 2017,L782931,S38686694
+326,Least Bittern,1,Green Cay Wetlands & Nature Center,US-FL,05 Mar 2018,L246929,S43402852
+327,Bare-throated Tiger-Heron,4,Villa Lapas,CR-P,09 May 2019,L585101,S56053451
+328,Great Blue Heron,,Hurricane Bay,US-FL,10 Oct 2015,L6189690,S38686627
+329,Gray Heron,5,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+330,Cocoi Heron,1,"Saquena, Loreto, PE (-4.506, -73.422)",PE-LOR,05 Mar 2019,L8820142,S53643426
+331,Goliath Heron,1,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+332,Purple Heron,3,Park HaYarkon פארק הירקון,IL-TA,07 Sep 2019,L1103236,S59569916
+333,Great Egret,1,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+334,Little Egret,2,"Shlomo Lahat Promenade, Tel Aviv-Yafo, Tel Aviv District, IL (32.083, 34.768)",IL-TA,05 Sep 2019,L9878661,S59524192
+335,Snowy Egret,1,J. N. Ding Darling NWR--Wildlife Drive,US-FL,15 Feb 2014,L823147,S38686563
+336,Little Blue Heron,1,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+337,Tricolored Heron,1,J. N. Ding Darling NWR--Wildlife Drive,US-FL,15 Feb 2014,L823147,S38686563
+338,Reddish Egret,3,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+339,Cattle Egret,3,Harns Marsh,US-FL,05 Oct 2017,L830108,S39564130
+340,Green Heron,1,High Acres Nature Area,US-NY,26 Aug 2017,L418669,S38857271
+341,Striated Heron,2,"Unknown Location - (-3.818, -73.321)",PE-LOR,04 Mar 2019,L8820083,S53643161
+342,Capped Heron,1,"Unknown Location - (-3.818, -73.321)",PE-LOR,04 Mar 2019,L8820083,S53643161
+343,Black-crowned Night-Heron,1,Six Mile Cypress Slough Preserve,US-FL,27 Mar 2016,L424819,S38686660
+344,Yellow-crowned Night-Heron,2,J. N. Ding Darling NWR--Wildlife Drive,US-FL,20 Aug 2017,L823147,S38729364
+345,Boat-billed Heron,3,Río Tarcoles--Boat Tour,CR-P,10 May 2019,L1456779,S56102081
+346,White Ibis,9,Six Mile Cypress Slough Preserve,US-FL,29 Oct 2016,L424819,S38539035
+347,Glossy Ibis,4,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+348,White-faced Ibis,13,Pesqueira Pit,US-AZ,19 Sep 2018,L7243338,S48634886
+349,African Sacred Ibis,2,Ngorongoro Conservation Area--Ngorongoro Crater,TZ-01,29 Jul 2017,L951508,S38489237
+350,Hadada Ibis,1,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+351,Roseate Spoonbill,,J. N. Ding Darling NWR--Wildlife Drive,US-FL,15 Feb 2014,L823147,S38686563
+352,Black Vulture,2,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,30 Sep 2017,L6319667,S39483418
+353,Turkey Vulture,,High Acres Nature Area,US-NY,26 Aug 2017,L418669,S38857271
+354,Lesser Yellow-headed Vulture,2,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.333, -80.212)",PA-2,10 Apr 2018,L7203773,S44445058
+355,Greater Yellow-headed Vulture,3,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+356,Secretarybird,1,Eastern Serengeti Thomson Enashiva Camp,TZ-01,24 Jul 2017,L6149970,S38470164
+357,Osprey,1,Hurricane Bay,US-FL,10 Oct 2015,L6189690,S38686627
+358,White-tailed Kite,1,Las Cienegas NCA--South Entrance (Santa Cruz Co.),US-AZ,18 Sep 2018,L765457,S48604550
+359,Swallow-tailed Kite,1,Harns Marsh,US-FL,27 Feb 2018,L830108,S43233206
+360,Lappet-faced Vulture,1,"Serengeti National Park, Tanzania",TZ-22,24 Jul 2017,L6151126,S38472765
+361,White-backed Vulture,22,Northern Serengeti National Park (Mara Region),TZ-13,25 Jul 2017,L6151339,S38474013
+362,Rüppell's Griffon,16,"Serengeti National Park, Tanzania",TZ-22,24 Jul 2017,L6151126,S38472765
+363,Brown Snake-Eagle,1,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+364,Martial Eagle,1,Central Serengeti Near Thomson Nyumba,TZ-13,27 Jul 2017,L6153177,S38487031
+365,Black Hawk-Eagle,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506362
+366,Ornate Hawk-Eagle,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+367,Long-crested Eagle,2,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+368,Wahlberg's Eagle,1,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+369,Tawny Eagle,1,Central Serengeti Near Thomson Nyumba,TZ-13,27 Jul 2017,L6153177,S38487031
+370,Verreaux's Eagle,1,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+371,Eastern Chanting-Goshawk,1,Ngorongoro Conservation Area--Olduvai Gorge,TZ-01,28 Jul 2017,L1044143,S38487839
+372,Black-collared Hawk,3,"Fernando Lores, Loreto, PE (-4.374, -73.402)",PE-LOR,05 Mar 2019,L8820126,S53643355
+373,Snail Kite,1,Wild Turkey Strand Preserve,US-FL,16 Oct 2017,L1903106,S39958717
+374,Double-toothed Kite,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+375,Mississippi Kite,1,West of El Valle on road to Pacific lowlands,PA-2,11 Apr 2018,L7208602,S44476527
+376,Plumbeous Kite,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+377,Northern Harrier,1,Hammonasset Beach SP,US-CT,11 Sep 2017,L298379,S39127718
+378,Shikra,1,Eastern Serengeti Thomson Enashiva Camp,TZ-01,23 Jul 2017,L6149970,S38468961
+379,Sharp-shinned Hawk,3,Lighthouse Point Park,US-CT,11 Oct 2017,L109209,S39825664
+380,Cooper's Hawk,1,Westmoor Park,US-CT,14 Nov 2017,L198655,S40508164
+381,Black Kite,1,Ngorongoro Conservation Area--Ngorongoro Crater,TZ-01,29 Jul 2017,L951508,S38489237
+382,Bald Eagle,1,Friday Harbor -- Harbor area,US-WA,14 Jul 2014,L879916,S38696014
+383,African Fish-Eagle,1,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+384,Slate-colored Hawk,2,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+385,Common Black Hawk,2,Río Tarcoles--Boat Tour,CR-P,10 May 2019,L1456779,S56102081
+386,Savanna Hawk,2,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444964
+387,Great Black Hawk,1,Deering Oaks Park,US-ME,01 Dec 2018,L1475992,S50338583
+388,Barred Hawk,3,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+389,Roadside Hawk,2,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+390,Harris's Hawk,1,Green Valley - Calle Lecho,US-AZ,19 Sep 2018,L4671259,S48634856
+391,White-tailed Hawk,2,Old Port Isabel Rd,US-TX,10 Oct 2019,L389757,S60505375
+392,Gray Hawk,1,St. David--Holy Trinity Monastery,US-AZ,14 Sep 2018,L348318,S48504654
+393,Gray-lined Hawk,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+394,Red-shouldered Hawk,2,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+395,Broad-winged Hawk,1,Matheson Hammock Park,US-FL,25 Feb 2018,L127425,S43166649
+396,Short-tailed Hawk,1,Fakahatchee Strand Preserve SP--Big Cypress Bend Boardwalk,US-FL,08 Jan 2018,L662393,S41743711
+397,Swainson's Hawk,4,De Anza Trail--Tumacacori,US-AZ,18 Sep 2018,L505270,S48604545
+398,Zone-tailed Hawk,1,Greaterville Road--between Hwy 83 and Box Canyon Rd,US-AZ,20 Sep 2018,L2898459,S48778396
+399,Red-tailed Hawk,1,"500 Broad Street, Windsor, Connecticut, US (41.85, -72.779)",US-CT,09 Aug 2017,L6166936,S38559607
+400,Barn Owl,1,"4411 Sunshine Boulevard, Saint James City, Florida, US (26.533, -82.099)",US-FL,17 Jan 2019,L8445866,S51770447
+401,Whiskered Screech-Owl,1,Madera Canyon--Santa Rita Lodge,US-AZ,20 Sep 2018,L268114,S48641437
+402,Tropical Screech-Owl,1,Canopy Lodge,PA-2,15 Apr 2018,L604642,S44584941
+403,Western Screech-Owl,1,Pena Blanca Lake,US-AZ,19 Sep 2018,L129054,S48634899
+404,Eastern Screech-Owl,1,Green Cay Wetlands & Nature Center,US-FL,05 Mar 2018,L246929,S43402852
+405,Spectacled Owl,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+406,Great Horned Owl,1,Pine Island,US-FL,29 Jan 2018,L6796465,S42347474
+407,Verreaux's Eagle-Owl,2,Tarangire NP,TZ-26,31 Jul 2017,L1044008,S38528783
+408,Snowy Owl,1,Gresczyk Farms,US-CT,19 Nov 2017,L6487615,S40601919
+409,Ferruginous Pygmy-Owl,2,"34, Puntarenas Province, CR (9.824, -84.597)",CR-P,09 May 2019,L9230991,S56053522
+410,Burrowing Owl,3,Pelican Blvd. Baseball Fields,US-FL,07 Jan 2018,L886942,S41702365
+411,Mottled Owl,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+412,Black-and-white Owl,2,"Calle Parque Municipal, Tarcoles, Provincia de Puntarenas, CR (9.769, -84.628)",CR-P,09 May 2019,L9232981,S56066588
+413,Barred Owl,1,"Sunny Slope, West Hartford, CT",US-CT,06 Aug 2017,L6156720,S38502689
+414,Speckled Mousebird,1,Central Serengeti Near Thomson Nyumba,TZ-13,27 Jul 2017,L6153177,S38487031
+415,Resplendent Quetzal,2,"Calle San Gerardo, San Gerardo de Dota, San José, CR (9.559, -83.803)",CR-SJ,15 May 2019,L9274050,S56322510
+416,Slaty-tailed Trogon,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+417,Black-tailed Trogon,1,"Nauta, Loreto, PE (-4.451, -73.455)",PE-LOR,06 Mar 2019,L8820153,S53643479
+418,Black-headed Trogon,1,Villa Lapas,CR-P,09 May 2019,L585101,S56053451
+419,Baird's Trogon,2,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56195319
+420,Gartered Trogon,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+421,Blue-crowned Trogon,1,"Fernando Lores, Loreto, PE (-4.374, -73.402)",PE-LOR,05 Mar 2019,L8820126,S53643355
+422,Black-throated Trogon,2,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+423,Elegant Trogon,1,Cave Creek Canyon--South Fork,US-AZ,15 Sep 2018,L129099,S48533334
+424,Collared Trogon,2,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+425,Eurasian Hoopoe,13,Independence Park תל אביב גן העצמאות,IL-TA,05 Sep 2019,L3882967,S59523901
+426,Von der Decken's Hornbill,1,Tarangire NP,TZ-26,31 Jul 2017,L1044008,S38528783
+427,Northern Red-billed Hornbill,1,Tarangire NP,TZ-26,31 Jul 2017,L1044008,S38528783
+428,Lesson's Motmot,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+429,Rufous Motmot,1,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+430,Broad-billed Motmot,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+431,Turquoise-browed Motmot,3,"34, Puntarenas Province, CR (9.824, -84.597)",CR-P,09 May 2019,L9230991,S56053522
+432,Common Kingfisher,2,Park HaYarkon פארק הירקון,IL-TA,07 Sep 2019,L1103236,S59569916
+433,White-throated Kingfisher,3,Park HaYarkon פארק הירקון,IL-TA,07 Sep 2019,L1103236,S59569916
+434,Gray-headed Kingfisher,1,Lake Manyara NP (Arusha Province),TZ-01,30 Jul 2017,L1033409,S38502540
+435,Ringed Kingfisher,1,West of El Valle on road to Pacific lowlands,PA-2,11 Apr 2018,L7208602,S44476527
+436,Belted Kingfisher,1,Hurricane Bay,US-FL,10 Oct 2015,L6189690,S38686627
+437,Pied Kingfisher,1,Northern Serengeti National Park (Mara Region),TZ-13,26 Jul 2017,L6151339,S38483682
+438,Amazon Kingfisher,3,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+439,American Pygmy Kingfisher,1,"Nauta, Loreto, PE (-4.576, -73.725)",PE-LOR,08 Mar 2019,L8820213,S53643687
+440,Green Kingfisher,2,West of El Valle on road to Pacific lowlands,PA-2,11 Apr 2018,L7208602,S44476527
+441,Lilac-breasted Roller,1,Northern Serengeti National Park (Mara Region),TZ-13,25 Jul 2017,L6151339,S38474013
+442,Chestnut-capped Puffbird,2,"Nauta, Loreto, PE (-4.451, -73.455)",PE-LOR,06 Mar 2019,L8820153,S53643479
+443,Barred Puffbird,3,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506418
+444,White-whiskered Puffbird,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+445,Black-fronted Nunbird,2,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+446,Swallow-winged Puffbird,2,"Nauta, Loreto, PE (-4.577, -73.616)",PE-LOR,08 Mar 2019,L8820366,S53644536
+447,White-eared Jacamar,1,"Nauta, Loreto, PE (-4.451, -73.455)",PE-LOR,06 Mar 2019,L8820153,S53643479
+448,Rufous-tailed Jacamar,2,Villa Lapas,CR-P,10 May 2019,L585101,S56077401
+449,Bluish-fronted Jacamar,3,"Nauta, Loreto, PE (-4.451, -73.455)",PE-LOR,06 Mar 2019,L8820153,S53643479
+450,Red-and-yellow Barbet,1,Ngorongoro Conservation Area--Olduvai Gorge,TZ-01,28 Jul 2017,L1044143,S38487839
+451,D'Arnaud's Barbet,1,Eastern Serengeti Thomson Enashiva Camp,TZ-01,22 Jul 2017,L6149970,S38465700
+452,Scarlet-crowned Barbet,1,"Unknown Location - (-3.818, -73.321)",PE-LOR,04 Mar 2019,L8820083,S53643161
+453,Spot-crowned Barbet,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+454,Northern Emerald-Toucanet,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+455,Lettered Aracari,2,"Nauta, Loreto, PE (-4.576, -73.725)",PE-LOR,08 Mar 2019,L8820213,S53643687
+456,Collared Aracari,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44406870
+457,Fiery-billed Aracari,3,Wilson Botanical Garden (OTS Las Cruces),CR-P,15 May 2019,L441320,S56299769
+458,Chestnut-eared Aracari,2,"Unknown Location - (-3.818, -73.321)",PE-LOR,04 Mar 2019,L8820083,S53643161
+459,Yellow-throated Toucan,1,Villa Lapas,CR-P,10 May 2019,L585101,S56077401
+460,White-throated Toucan,1,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+461,Keel-billed Toucan,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+462,Olivaceous Piculet,1,Hacienda Baru,CR-P,11 May 2019,L448818,S56136889
+463,Yellow-bellied Sapsucker,1,Lakes Park  - (Area 7),US-FL,06 Nov 2017,L371129,S40347803
+464,Red-naped Sapsucker,1,Cave Creek Canyon--Southwestern Research Station,US-AZ,15 Sep 2018,L129102,S48533218
+465,Red-headed Woodpecker,3,Caloosahatchee Creeks Preserve--East,US-FL,01 Feb 2018,L674344,S42407497
+466,Acorn Woodpecker,1,Cave Creek Canyon--Southwestern Research Station,US-AZ,15 Sep 2018,L129102,S48533218
+467,Golden-naped Woodpecker,1,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56195319
+468,Yellow-tufted Woodpecker,3,"Nauta, Loreto, PE (-4.505, -73.918)",PE-LOR,07 Mar 2019,L8820372,S53644581
+469,Black-cheeked Woodpecker,2,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+470,Red-crowned Woodpecker,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44406870
+471,Gila Woodpecker,3,St. David--Holy Trinity Monastery,US-AZ,14 Sep 2018,L348318,S48504654
+472,Hoffmann's Woodpecker,1,"Villa San Ignacio, Alajuela",CR-A,09 May 2019,L1144236,S56039005
+473,Golden-fronted Woodpecker,8,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+474,Red-bellied Woodpecker,1,"500 Broad Street, Windsor, Connecticut, US (41.85, -72.779)",US-CT,09 Aug 2017,L6166936,S38559607
+475,Black-backed Woodpecker,2,Fenske Lake Campground,US-MN,26 Jun 2018,L5957598,S46815890
+476,Syrian Woodpecker,1,"1 Louis Vincent Street, Jerusalem (31.79, 35.229)",IL-JM,03 Sep 2019,L9871818,S59479869
+477,Downy Woodpecker,2,Hartford Reservoir No. 1 and Forest,US-CT,24 Aug 2017,L733307,S38796187
+478,Ladder-backed Woodpecker,1,Portal--Cave Creek Ranch,US-AZ,15 Sep 2018,L324045,S48533304
+479,Red-cockaded Woodpecker,1,Babcock-Webb WMA,US-FL,19 Jan 2018,L127396,S42065694
+480,Hairy Woodpecker,1,Great Pond Trail,US-CT,08 Sep 2017,L2128535,S39063358
+481,Arizona Woodpecker,1,Hunter Canyon Rd (Huachuca Mts),US-AZ,16 Sep 2018,L5001484,S48549091
+482,Little Woodpecker,1,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+483,Red-stained Woodpecker,1,"Nauta, Loreto, PE (-4.58, -73.72)",PE-LOR,08 Mar 2019,L8820347,S53644475
+484,Pale-billed Woodpecker,2,PN Carara--main headquarters,CR-P,10 May 2019,L3354750,S56085380
+485,Lineated Woodpecker,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+486,Pileated Woodpecker,2,Six Mile Cypress Slough Preserve,US-FL,12 Aug 2017,L424819,S38601114
+487,Cream-colored Woodpecker,2,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+488,Chestnut Woodpecker,1,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+489,Golden-olive Woodpecker,1,Wilson Botanical Garden (OTS Las Cruces),CR-P,14 May 2019,L441320,S56272551
+490,Spot-breasted Woodpecker,4,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+491,Northern Flicker,1,"301 Jasmine Street, Denver, Colorado, US (39.722, -104.919)",US-CO,31 Aug 2017,L6231455,S38928785
+492,Barred Forest-Falcon,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+493,Crested Caracara,1,Corkscrew Rd & SR 82,US-FL,08 Jan 2017,L6163535,S38539020
+494,Yellow-headed Caracara,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+495,Laughing Falcon,2,"613, San Vito, Provincia de Puntarenas, CR (8.825, -82.951)",CR-P,14 May 2019,L9265913,S56272764
+496,American Kestrel,1,Wild Turkey Strand Preserve,US-FL,25 Oct 2017,L1903106,S40113848
+497,Merlin,1,Hartford Reservoir No. 6,US-CT,15 Nov 2017,L607644,S40518725
+498,Aplomado Falcon,1,Cameron Co.--TX100--Aplomado Viewing Area,US-TX,10 Oct 2019,L3322724,S60510846
+499,Bat Falcon,1,"Unknown Location - (8.7, -83.196)",CR-P,12 May 2019,L9251768,S56177303
+500,Peregrine Falcon,1,Sandy Point,US-CT,27 Sep 2017,L109233,S39417354
+501,Rose-ringed Parakeet,5,"Jerusalem (31.789, 35.23)",IL-JM,02 Sep 2019,L9869865,S59463853
+502,Yellow-collared Lovebird,14,Tarangire NP,TZ-26,31 Jul 2017,L1044008,S38528783
+503,Monk Parakeet,6,Pelican Blvd. Baseball Fields,US-FL,01 Nov 2017,L886942,S40248340
+504,Tui Parakeet,8,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+505,White-winged Parakeet,1,"4801 Northwest 7th Street, Miami, Florida, US (25.78, -80.273)",US-FL,25 Feb 2018,L6984601,S43165076
+506,Yellow-chevroned Parakeet,4,"Biltmore Hotel, Coral Gables, Florida, US (25.741, -80.278)",US-FL,16 Feb 2019,L8631795,S52786790
+507,Orange-chinned Parakeet,2,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+508,Cobalt-winged Parakeet,3,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+509,Brown-hooded Parrot,2,Canopy Lodge,PA-2,13 Apr 2018,L604642,S44532284
+510,Blue-headed Parrot,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+511,White-crowned Parrot,14,Wilson Botanical Garden (OTS Las Cruces),CR-P,15 May 2019,L441320,S56299769
+512,Short-tailed Parrot,2,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+513,Festive Parrot,2,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+514,Red-crowned Parrot,120,Brownsville--Oliveira Park,US-TX,10 Oct 2019,L1918641,S60515219
+515,Red-lored Parrot,1,Villa Lapas,CR-P,10 May 2019,L585101,S56077401
+516,Yellow-crowned Parrot,1,"Saquena, Loreto, PE (-4.506, -73.422)",PE-LOR,05 Mar 2019,L8820142,S53643426
+517,White-fronted Parrot,20,Brownsville--Oliveira Park,US-TX,10 Oct 2019,L1918641,S60515219
+518,Mealy Parrot,1,"Unknown Location - (-3.818, -73.321)",PE-LOR,04 Mar 2019,L8820083,S53643161
+519,Orange-winged Parrot,1,"267 Jirón Putumayo, Iquitos, Loreto, PE (-3.749, -73.245)",PE-LOR,04 Mar 2019,L8820088,S53643196
+520,Sulphur-winged Parakeet,5,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56355241
+521,Orange-fronted Parakeet,14,"34, Puntarenas Province, CR (9.824, -84.597)",CR-P,09 May 2019,L9230991,S56053522
+522,Brown-throated Parakeet,1,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444950
+523,Dusky-headed Parakeet,4,"Fernando Lores, Loreto, PE (-4.374, -73.402)",PE-LOR,05 Mar 2019,L8820126,S53643355
+524,Nanday Parakeet,5,Manor Park,US-FL,05 Feb 2018,L6808817,S42518260
+525,Red-bellied Macaw,3,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+526,Blue-and-yellow Macaw,1,"Saquena, Loreto, PE (-4.523, -73.447)",PE-LOR,06 Mar 2019,L8820146,S53643454
+527,Scarlet Macaw,1,"Saquena, Loreto, PE (-4.506, -73.422)",PE-LOR,05 Mar 2019,L8820142,S53643426
+528,Chestnut-fronted Macaw,5,"Saquena, Loreto, PE (-4.506, -73.422)",PE-LOR,05 Mar 2019,L8820142,S53643426
+529,Green Parakeet,1,"301-351 Hunting Lodge Drive, Miami Springs, Florida, US (25.819, -80.294)",US-FL,25 Feb 2018,L6988204,S43189388
+530,Crimson-fronted Parakeet,2,"6498 Northwest 38th Terrace, Virginia Gardens, Florida, US (25.81, -80.302)",US-FL,25 Feb 2018,L6987713,S43186092
+531,Mitred Parakeet,7,"576 Southwest 91 Avenue, Miami, Florida, US (25.684, -80.343)",US-FL,25 Feb 2018,L6986137,S43176100
+532,Red-masked Parakeet,1,"301-351 Hunting Lodge Drive, Miami Springs, Florida, US (25.819, -80.294)",US-FL,25 Feb 2018,L6988204,S43189388
+533,White-eyed Parakeet,1,"6498 Northwest 38th Terrace, Virginia Gardens, Florida, US (25.81, -80.302)",US-FL,25 Feb 2018,L6987713,S43186092
+534,Great Antshrike,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+535,Barred Antshrike,2,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444950
+536,Black-hooded Antshrike,1,Villa Lapas,CR-P,10 May 2019,L585101,S56077401
+537,Plain Antvireo,2,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+538,Spot-crowned Antvireo,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+539,White-flanked Antwren,2,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+540,Slaty Antwren,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+541,Dot-winged Antwren,1,Villa Lapas,CR-P,10 May 2019,L585101,S56077401
+542,Dusky Antbird,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+543,White-bellied Antbird,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+544,Chestnut-backed Antbird,3,PN Carara--main headquarters,CR-P,10 May 2019,L3354750,S56085380
+545,Spotted Antbird,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+546,Black-crowned Antpitta,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+547,Streak-chested Antpitta,1,PN Carara--main headquarters,CR-P,10 May 2019,L3354750,S56085380
+548,Black-faced Antthrush,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+549,Striated Antthrush,1,"Unknown Location - (-3.818, -73.321)",PE-LOR,04 Mar 2019,L8820083,S53643161
+550,Olivaceous Woodcreeper,1,Wilson Botanical Garden (OTS Las Cruces),CR-P,13 May 2019,L441320,S56244702
+551,Ruddy Woodcreeper,1,Wilson Botanical Garden (OTS Las Cruces),CR-P,15 May 2019,L441320,S56299769
+552,Plain-brown Woodcreeper,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506354
+553,Wedge-billed Woodcreeper,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+554,Northern Barred-Woodcreeper,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+555,Cocoa Woodcreeper,1,West of El Valle on road to Pacific lowlands,PA-2,11 Apr 2018,L7208602,S44476527
+556,Buff-throated Woodcreeper,1,"Nauta, Loreto, PE (-4.576, -73.725)",PE-LOR,08 Mar 2019,L8820213,S53643687
+557,Black-striped Woodcreeper,1,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56195319
+558,Spotted Woodcreeper,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+559,Straight-billed Woodcreeper,2,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.333, -80.212)",PA-2,10 Apr 2018,L7203773,S44445058
+560,Brown-billed Scythebill,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+561,Streak-headed Woodcreeper,1,Villa Lapas,CR-P,11 May 2019,L585101,S56119011
+562,Spot-crowned Woodcreeper,1,"Calle San Gerardo, Copey, Provincia de Cartago, CR (9.588, -83.8)",CR-SJ,15 May 2019,L9274060,S56322556
+563,Plain Xenops,1,PN Carara--main headquarters,CR-P,10 May 2019,L3354750,S56085380
+564,Buffy Tuftedcheek,1,Savegre Mt. Lodge--primary forest trails above lodge,CR-SJ,16 May 2019,L1456996,S56355292
+565,Chiriqui Foliage-gleaner,1,"Unknown Location - (8.786, -82.959)",CR-P,14 May 2019,L9265881,S56272589
+566,Spotted Barbtail,1,Savegre Mt. Lodge--primary forest trails above lodge,CR-SJ,16 May 2019,L1456996,S56355292
+567,Ruddy Treerunner,1,"Calle San Gerardo, San Gerardo de Dota, San José, CR (9.559, -83.803)",CR-SJ,15 May 2019,L9274050,S56322510
+568,Red-faced Spinetail,1,Wilson Botanical Garden (OTS Las Cruces),CR-P,14 May 2019,L441320,S56263113
+569,Pale-breasted Spinetail,2,"(8.719, -83.165)",CR-P,11 May 2019,L9247351,S56152235
+570,Lance-tailed Manakin,1,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444950
+571,White-ruffed Manakin,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+572,Blue-crowned Manakin,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+573,Orange-collared Manakin,1,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56195319
+574,Golden-collared Manakin,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+575,Turquoise Cotinga,2,San Isidro de PZ--oficinas MINAE,CR-SJ,15 May 2019,L4345410,S56322875
+576,Bare-necked Fruitcrow,1,"Saquena, Loreto, PE (-4.523, -73.447)",PE-LOR,06 Mar 2019,L8820146,S53643454
+577,Masked Tityra,2,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+578,Northern Schiffornis,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+579,Barred Becard,1,"Unknown Location - (9.578, -83.801)",CR-SJ,17 May 2019,L9286964,S56417548
+580,Cinnamon Becard,2,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506637
+581,White-winged Becard,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+582,Rose-throated Becard,2,De Anza Trail--Tumacacori,US-AZ,18 Sep 2018,L505270,S48604545
+583,Sulphur-rumped Flycatcher,1,Esquinas Rainforest Lodge,CR-P,13 May 2019,L1026422,S56215552
+584,White-throated Spadebill,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+585,Ochre-bellied Flycatcher,1,Villa Lapas,CR-P,10 May 2019,L585101,S56077401
+586,Rufous-browed Tyrannulet,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+587,Scale-crested Pygmy-Tyrant,1,"Unknown Location - (8.786, -82.959)",CR-P,14 May 2019,L9265881,S56272589
+588,Common Tody-Flycatcher,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+589,Eye-ringed Flatbill,2,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56195319
+590,Yellow-olive Flycatcher,1,"34, Puntarenas Province, CR (9.824, -84.597)",CR-P,09 May 2019,L9230991,S56053522
+591,Yellow-margined Flycatcher,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+592,Brown-capped Tyrannulet,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+593,Northern Beardless-Tyrannulet,1,Frontera Audubon Center (LTC 058),US-TX,06 Oct 2019,L209876,S60404778
+594,Southern Beardless-Tyrannulet,1,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444950
+595,Mouse-colored Tyrannulet,1,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444950
+596,Yellow Tyrannulet,1,"(8.719, -83.165)",CR-P,11 May 2019,L9247351,S56152235
+597,Greenish Elaenia,1,"34, Puntarenas Province, CR (9.824, -84.597)",CR-P,09 May 2019,L9230991,S56053522
+598,Yellow-bellied Elaenia,2,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+599,Lesser Elaenia,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+600,Mountain Elaenia,1,"Calle San Gerardo, Provincia de Cartago, CR (9.596, -83.798)",CR-C,15 May 2019,L9274084,S56322745
+601,Torrent Tyrannulet,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+602,Mistletoe Tyrannulet,2,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+603,Bran-colored Flycatcher,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+604,Tufted Flycatcher,4,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+605,Olive-sided Flycatcher,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+606,Dark Pewee,1,"Calle San Gerardo, San Gerardo de Dota, San José, CR (9.559, -83.803)",CR-SJ,15 May 2019,L9274050,S56322510
+607,Western Wood-Pewee,2,Cave Creek Canyon--South Fork,US-AZ,15 Sep 2018,L129099,S48533199
+608,Eastern Wood-Pewee,4,Penwood State Park,US-CT,23 Aug 2017,L293431,S38780532
+609,Tropical Pewee,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506418
+610,Yellow-bellied Flycatcher,1,Westmoor Park,US-CT,17 May 2018,L198655,S45769757
+611,Acadian Flycatcher,1,"Hartman Park, Lyme, CT",US-CT,14 Jun 2018,L1581613,S46544960
+612,Alder Flycatcher,1,White Memorial Foundation--Little Pond,US-CT,21 May 2018,L598873,S45906104
+613,Willow Flycatcher,1,Hammonasset Beach SP--Meig's Point Parking Lot/Marshes,US-CT,11 May 2018,L1880516,S45557522
+614,Least Flycatcher,1,White Memorial Foundation--Little Pond,US-CT,21 May 2018,L598873,S45906104
+615,Hammond's Flycatcher,1,"Mt. Lemmon--Bear Canyon (Cypress, Middle Bear, Chihuahua Pine Picnic Areas)",US-AZ,21 Sep 2018,L128888,S48656676
+616,Dusky Flycatcher,1,Montosa Canyon--km 1 (culvert area),US-AZ,18 Sep 2018,L281844,S48604543
+617,Pacific-slope Flycatcher,1,San Pedro RNCA--San Pedro House and trails,US-AZ,16 Sep 2018,L129080,S48555858
+618,Yellowish Flycatcher,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56359712
+619,Black-capped Flycatcher,1,"Unknown Location - (9.578, -83.801)",CR-SJ,17 May 2019,L9286964,S56417548
+620,Black Phoebe,1,Cave Creek Canyon--Southwestern Research Station,US-AZ,15 Sep 2018,L129102,S48533218
+621,Eastern Phoebe,1,"2865R Albany Avenue, West Hartford, Connecticut, US (41.791, -72.787)",US-CT,07 Sep 2017,L6249570,S39048282
+622,Say's Phoebe,2,Las Cienegas NCA--South Entrance (Santa Cruz Co.),US-AZ,18 Sep 2018,L765457,S48604550
+623,Northern Scrub-Flycatcher,1,"Calle Parque Municipal, Tarcoles, Provincia de Puntarenas, CR (9.769, -84.628)",CR-P,09 May 2019,L9232981,S56066588
+624,Vermilion Flycatcher,2,St. David--Holy Trinity Monastery,US-AZ,14 Sep 2018,L348318,S48504654
+625,Drab Water Tyrant,1,"Nauta, Loreto, PE (-4.58, -73.72)",PE-LOR,08 Mar 2019,L8820347,S53644475
+626,White-headed Marsh Tyrant,3,"Fernando Lores, Loreto, PE (-4.374, -73.402)",PE-LOR,05 Mar 2019,L8820126,S53643355
+627,Long-tailed Tyrant,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+628,Cinnamon Attila,1,"Nauta, Loreto, PE (-4.576, -73.725)",PE-LOR,08 Mar 2019,L8820213,S53643687
+629,Bright-rumped Attila,2,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56195319
+630,Rufous Mourner,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+631,Dusky-capped Flycatcher,2,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+632,Panama Flycatcher,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+633,Ash-throated Flycatcher,1,Lake Apopka Wildlife Drive,US-FL,25 Jan 2019,L298649,S52039495
+634,Great Crested Flycatcher,1,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+635,Lesser Kiskadee,1,"Unknown Location - (-3.749, -73.245)",PE-LOR,04 Mar 2019,L8820065,S53643045
+636,Great Kiskadee,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+637,Boat-billed Flycatcher,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+638,Rusty-margined Flycatcher,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+639,Social Flycatcher,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+640,Gray-capped Flycatcher,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506418
+641,Streaked Flycatcher,1,"Unnamed Road, Provincia de Coclé, PA (8.477, -80.246)",PA-2,10 Apr 2018,L7203723,S44444887
+642,Piratic Flycatcher,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+643,Sulphury Flycatcher,1,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+644,Tropical Kingbird,1,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+645,Couch's Kingbird,7,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+646,Cassin's Kingbird,1,St. David--Holy Trinity Monastery,US-AZ,14 Sep 2018,L348318,S48504654
+647,Western Kingbird,2,Las Cienegas NCA--South Entrance (Santa Cruz Co.),US-AZ,18 Sep 2018,L765457,S48604550
+648,Eastern Kingbird,1,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+649,Gray Kingbird,1,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+650,Scissor-tailed Flycatcher,2,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+651,Fork-tailed Flycatcher,4,"Unnamed Road, Provincia de Coclé, PA (8.477, -80.246)",PA-2,10 Apr 2018,L7203723,S44444887
+652,Rufous-browed Peppershrike,1,"Calle Arroyo, Río Hato, Provincia de Coclé, PA (8.381, -80.109)",PA-2,10 Apr 2018,L7203789,S44445138
+653,Scrub Greenlet,1,West of El Valle on road to Pacific lowlands,PA-2,11 Apr 2018,L7208602,S44476527
+654,Tawny-crowned Greenlet,2,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56195319
+655,Lesser Greenlet,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+656,White-eyed Vireo,1,Corkscrew Regional Ecosystem Watershed--Bird Rookery Swamp Trails,US-FL,02 Nov 2017,L1061691,S40260972
+657,Thick-billed Vireo,1,Crandon Park,US-FL,17 Feb 2019,L127422,S52828285
+658,Mangrove Vireo,2,"Calle Parque Municipal, Tarcoles, Provincia de Puntarenas, CR (9.769, -84.628)",CR-P,09 May 2019,L9232981,S56066588
+659,Bell's Vireo,2,Paton Center for Hummingbirds (Patons' Yard),US-AZ,18 Sep 2018,L247122,S48604547
+660,Hutton's Vireo,4,Ramsey Canyon Preserve (formerly Mile Hi Ranch),US-AZ,17 Sep 2018,L129062,S48574612
+661,Yellow-throated Vireo,1,Six Mile Cypress Slough Preserve,US-FL,26 Mar 2018,L424819,S43975623
+662,Yellow-winged Vireo,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56359712
+663,Cassin's Vireo,1,Cave Creek Canyon--South Fork,US-AZ,15 Sep 2018,L129099,S48533334
+664,Blue-headed Vireo,1,Six Mile Cypress Slough Preserve,US-FL,09 Nov 2017,L424819,S40396799
+665,Plumbeous Vireo,1,San Pedro RNCA--San Pedro House and trails,US-AZ,17 Sep 2018,L129080,S48579502
+666,Philadelphia Vireo,1,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+667,Warbling Vireo,3,Fisher Meadows Recreation Area,US-CT,07 May 2018,L733301,S45405911
+668,Brown-capped Vireo,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56362616
+669,Red-eyed Vireo,1,"2865R Albany Avenue, West Hartford, Connecticut, US (41.791, -72.787)",US-CT,07 Sep 2017,L6249570,S39048282
+670,Chivi Vireo,1,"Unknown Location - (-3.818, -73.321)",PE-LOR,04 Mar 2019,L8820083,S53643161
+671,Yellow-green Vireo,4,"Unnamed Road, El Valle de Antón, Provincia de Coclé, PA (8.539, -80.199)",PA-2,10 Apr 2018,L7203716,S44444850
+672,Eurasian Golden Oriole,1,Jerusalem Bird Observatory התחנה לחקר ציפורי ירושלים,IL-JM,04 Sep 2019,L967976,S59501483
+673,Fork-tailed Drongo,1,Central Serengeti Near Thomson Nyumba,TZ-13,28 Jul 2017,L6153177,S38487249
+674,African Paradise-Flycatcher,1,Gibbs Farm,TZ-01,31 Jul 2017,L4045814,S38526634
+675,Loggerhead Shrike,1,Aircraft Observation Marsh,US-FL,02 Oct 2017,L5740111,S39513588
+676,Gray-backed Fiscal,1,Northern Serengeti National Park (Mara Region),TZ-13,25 Jul 2017,L6151339,S38474013
+677,Northern Fiscal,1,Eastern Serengeti Thomson Enashiva Camp,TZ-01,22 Jul 2017,L6149970,S38465700
+678,Magpie Shrike,3,Central Serengeti Near Thomson Nyumba,TZ-13,27 Jul 2017,L6153177,S38487031
+679,Black-chested Jay,2,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+680,Green Jay,13,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+681,Steller's Jay,1,Seward--Two Lakes Trail,US-AK,25 Aug 2018,L3495015,S48063249
+682,Blue Jay,2,Keney Park,US-CT,21 May 2016,L6189670,S38686524
+683,Florida Scrub-Jay,1,"2524 Northwest 15th Avenue, Cape Coral, Florida, US (26.701, -82.005)",US-FL,07 Jan 2018,L6681539,S41704420
+684,California Scrub-Jay,9,O'Neill Regional Park,US-CA,24 Sep 2018,L374421,S48727000
+685,Woodhouse's Scrub-Jay,1,Portal--Cave Creek Ranch,US-AZ,15 Sep 2018,L324045,S48533304
+686,Mexican Jay,1,Cave Creek Canyon--South Fork,US-AZ,15 Sep 2018,L129099,S48533199
+687,Black-billed Magpie,2,"8308 Owl Avenue, Meadowlands, Minnesota, US (47.11, -92.727)",US-MN,26 Jun 2018,L7628999,S46820389
+688,House Crow,1,Nokomis Public Beach,US-FL,20 Mar 2019,L2602995,S54037924
+689,American Crow,11,"10401 Dartington Drive, Fort Myers, Florida, US (26.556, -81.779)",US-FL,12 Aug 2017,L6175420,S38607283
+690,Northwestern Crow,1,Seward--New Headlands,US-AK,24 Aug 2018,L2024109,S48048403
+691,Fish Crow,1,Hammonasset Beach SP,US-CT,11 Sep 2017,L298379,S39127718
+692,Chihuahuan Raven,28,Laredo Landfill,US-TX,09 Oct 2019,L1926120,S60481321
+693,Hooded Crow,2,"Jerusalem, Jerusalem District, IL (31.8, 35.215)",IL-JM,02 Sep 2019,L9868656,S59456018
+694,Common Raven,3,Coyote Gulch,US-UT,07 Jun 2017,L4616712,S40126879
+695,Carolina Chickadee,2,"2905 North Monroe Street, Tallahassee, Florida, US (30.483, -84.306)",US-FL,02 May 2019,L9164799,S55686096
+696,Black-capped Chickadee,3,Hartford Reservoir No. 1 and Forest,US-CT,24 Aug 2017,L733307,S38796187
+697,Mountain Chickadee,1,Mt. Lemmon--Rose Canyon and Lake,US-AZ,21 Sep 2018,L129068,S48656738
+698,Chestnut-backed Chickadee,5,Seward--Two Lakes Trail,US-AK,25 Aug 2018,L3495015,S48063249
+699,Bridled Titmouse,1,St. David--Holy Trinity Monastery,US-AZ,14 Sep 2018,L348318,S48504654
+700,Oak Titmouse,1,O'Neill Regional Park,US-CA,25 Sep 2018,L374421,S48740083
+701,Tufted Titmouse,1,"14 Sunny Slope Drive, West Hartford, Connecticut, US (41.78, -72.744)",US-CT,07 Aug 2017,L6161564,S38529035
+702,Black-crested Titmouse,3,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+703,Great Tit,1,Jerusalem Bird Observatory התחנה לחקר ציפורי ירושלים,IL-JM,04 Sep 2019,L967976,S59501483
+704,Verdin,2,De Anza Trail--Tumacacori,US-AZ,18 Sep 2018,L505270,S48604545
+705,Flappet Lark,1,Northern Serengeti National Park (Mara Region),TZ-13,26 Jul 2017,L6151339,S38483682
+706,Horned Lark,15,Hammonasset Beach SP,US-CT,19 Dec 2017,L298379,S41195645
+707,Graceful Prinia,12,Independence Park תל אביב גן העצמאות,IL-TA,05 Sep 2019,L3882967,S59523901
+708,Gray-capped Warbler,1,Gibbs Farm,TZ-01,31 Jul 2017,L4045814,S38526634
+709,Sedge Warbler,1,Jerusalem Bird Observatory התחנה לחקר ציפורי ירושלים,IL-JM,04 Sep 2019,L967976,S59501483
+710,Black-capped Donacobius,4,"Fernando Lores, Loreto, PE (-4.374, -73.402)",PE-LOR,05 Mar 2019,L8820126,S53643355
+711,Blue-and-white Swallow,7,"Villa San Ignacio, Alajuela",CR-A,09 May 2019,L1144236,S56038518
+712,White-thighed Swallow,5,West of El Valle on road to Pacific lowlands,PA-2,11 Apr 2018,L7208602,S44476527
+713,Northern Rough-winged Swallow,40,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+714,Southern Rough-winged Swallow,3,"Unnamed Road, El Valle de Antón, Provincia de Coclé, PA (8.539, -80.199)",PA-2,10 Apr 2018,L7203716,S44444850
+715,Purple Martin,10,Celery Fields,US-FL,05 Feb 2018,L234146,S42522301
+716,Gray-breasted Martin,5,"(8.618, -80.229)",PA-2,11 Apr 2018,L7208429,S44476442
+717,Tree Swallow,50,Wild Turkey Strand Preserve,US-FL,04 Nov 2017,L1903106,S40306833
+718,White-winged Swallow,2,"Fernando Lores, Loreto, PE (-4.374, -73.402)",PE-LOR,05 Mar 2019,L8820126,S53643355
+719,Mangrove Swallow,6,Río Tarcoles--Boat Tour,CR-P,09 May 2019,L1456779,S56066566
+720,Bank Swallow,2,Fort De Soto Park,US-FL,25 Apr 2018,L127332,S44932073
+721,Barn Swallow,,High Acres Nature Area,US-NY,26 Aug 2017,L418669,S38857271
+722,Cliff Swallow,2,Hartford Reservoir No. 6,US-CT,07 May 2018,L607644,S45414560
+723,Cave Swallow,2,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+724,Red-whiskered Bulbul,2,"8760-8780 Southwest 81st Street, Miami, Florida, US (25.694, -80.335)",US-FL,25 Feb 2018,L6985787,S43173524
+725,Common Bulbul,1,Gibbs Farm,TZ-01,31 Jul 2017,L4045814,S38526634
+726,White-spectacled Bulbul,2,"Jerusalem (31.789, 35.23)",IL-JM,02 Sep 2019,L9869865,S59463853
+727,Willow Warbler,1,"1 Louis Vincent Street, Jerusalem (31.79, 35.229)",IL-JM,03 Sep 2019,L9871818,S59479869
+728,Bushtit,6,Box Canyon,US-AZ,20 Sep 2018,L340405,S48778287
+729,Eurasian Blackcap,7,Jerusalem Bird Observatory התחנה לחקר ציפורי ירושלים,IL-JM,04 Sep 2019,L967976,S59501483
+730,Lesser Whitethroat,8,Jerusalem Bird Observatory התחנה לחקר ציפורי ירושלים,IL-JM,04 Sep 2019,L967976,S59501483
+731,Wrentit,1,O'Neill Regional Park,US-CA,24 Sep 2018,L374421,S48727000
+732,Arrow-marked Babbler,4,Gibbs Farm,TZ-01,31 Jul 2017,L4045814,S38526634
+733,Golden-crowned Kinglet,1,Frances Slocum SP,US-PA,24 Nov 2017,L443823,S40695982
+734,Ruby-crowned Kinglet,1,Hickey Creek Wildlife & Environmental Area,US-FL,08 Feb 2018,L1349962,S42590876
+735,Red-breasted Nuthatch,1,White Memorial Foundation--Little Pond,US-CT,25 May 2018,L598873,S46004679
+736,White-breasted Nuthatch,1,Hartford Reservoir No. 1 and Forest,US-CT,24 Aug 2017,L733307,S38796187
+737,Pygmy Nuthatch,15,Mt. Lemmon--Rose Canyon and Lake,US-AZ,21 Sep 2018,L129068,S48656738
+738,Brown-headed Nuthatch,4,Pine Lake Preserve,US-FL,02 Jan 2018,L335686,S41549892
+739,Brown Creeper,1,"2865R Albany Avenue, West Hartford, Connecticut, US (41.791, -72.787)",US-CT,07 Sep 2017,L6249570,S39048282
+740,Tawny-faced Gnatwren,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+741,Blue-gray Gnatcatcher,1,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+742,Black-tailed Gnatcatcher,2,Green Valley - Calle Lecho,US-AZ,19 Sep 2018,L4671259,S48634856
+743,Black-capped Gnatcatcher,1,Montosa Canyon--km 1 (culvert area),US-AZ,18 Sep 2018,L281844,S48604543
+744,Tropical Gnatcatcher,1,West of El Valle on road to Pacific lowlands,PA-2,11 Apr 2018,L7208602,S44476527
+745,Rock Wren,2,East Box Canyon Rd--Arizona Trail to Greaterville Rd,US-AZ,20 Sep 2018,L3619006,S48775979
+746,Canyon Wren,1,Cave Creek Canyon--South Fork,US-AZ,15 Sep 2018,L129099,S48533199
+747,House Wren,1,Spice Bush Swamp Park,US-CT,23 Aug 2017,L1177569,S38787959
+748,Ochraceous Wren,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+749,Winter Wren,1,"Ice Age National Scenic Trail, Baraboo, Wisconsin, US (43.411, -89.724)",US-WI,24 Jun 2018,L7620216,S46773748
+750,Sedge Wren,1,Dinner Island Ranch WMA,US-FL,26 Jan 2018,L840220,S42249347
+751,Marsh Wren,1,White Memorial Foundation--Little Pond,US-CT,21 May 2018,L598873,S45906104
+752,Carolina Wren,1,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+753,Bewick's Wren,2,Vancouver--Van Dusen Gardens,CA-BC,06 Sep 2018,L367682,S48330221
+754,Rufous-naped Wren,12,"Villa San Ignacio, Alajuela",CR-A,09 May 2019,L1144236,S56038518
+755,Cactus Wren,4,Green Valley - Calle Lecho,US-AZ,19 Sep 2018,L4671259,S48634856
+756,Rufous-breasted Wren,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+757,Rufous-and-white Wren,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+758,Isthmian Wren,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+759,Riverside Wren,1,Hacienda Baru,CR-P,11 May 2019,L448818,S56136889
+760,Bay Wren,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506382
+761,Buff-breasted Wren,1,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+762,White-breasted Wood-Wren,2,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+763,Song Wren,1,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+764,Red-billed Oxpecker,3,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+765,Yellow-billed Oxpecker,8,Tarangire NP,TZ-26,01 Aug 2017,L1044008,S38530008
+766,Common Hill Myna,1,"6840-6904 Southwest 65th Avenue, South Miami, Florida, US (25.706, -80.3)",US-FL,25 Feb 2018,L6985137,S43167830
+767,European Starling,1,Milford Pt. (CT Audubon),US-CT,20 Sep 2017,L109216,S39297714
+768,Common Myna,3,"720 Northwest 37th Avenue, Miami, Florida, US (25.78, -80.256)",US-FL,25 Feb 2018,L6984609,S43165115
+769,Hildebrandt's Starling,1,Tarangire NP,TZ-26,31 Jul 2017,L1044008,S38528783
+770,Rüppell's Starling,1,Northern Serengeti National Park (Mara Region),TZ-13,26 Jul 2017,L6151339,S38483682
+771,Superb Starling,1,Eastern Serengeti Thomson Enashiva Camp,TZ-01,22 Jul 2017,L6149970,S38465700
+772,Gray Catbird,1,Spice Bush Swamp Park,US-CT,23 Aug 2017,L1177569,S38787959
+773,Curve-billed Thrasher,2,Portal--Bob Rodrigues yard (Dave Jasper's old yard),US-AZ,14 Sep 2018,L994658,S48510315
+774,Brown Thrasher,3,Oscar Scherer SP,US-FL,05 Feb 2018,L127350,S42521196
+775,Long-billed Thrasher,2,Estero Llano Grande SP WBC (LTC 054),US-TX,07 Oct 2019,L259855,S60426434
+776,California Thrasher,1,O'Neill Regional Park,US-CA,25 Sep 2018,L374421,S48740083
+777,Crissal Thrasher,2,Montosa Canyon--km 1 (culvert area),US-AZ,18 Sep 2018,L281844,S48604543
+778,Bahama Mockingbird,1,Lantana Nature Preserve,US-FL,25 Apr 2019,L1293707,S55400945
+779,Long-tailed Mockingbird,18,"1301 Avenida Jose Larco, Miraflores, Gobierno Regional de Lima, PE (-12.131, -77.03)",PE-LIM,03 Mar 2019,L8727366,S53315045
+780,Tropical Mockingbird,1,"Unnamed Road, El Chirú, PA (8.317, -80.205)",PA-2,10 Apr 2018,L7203760,S44445026
+781,Northern Mockingbird,3,"10401 Dartington Drive, Fort Myers, Florida, US (26.556, -81.779)",US-FL,12 Aug 2017,L6175420,S38607283
+782,Eastern Bluebird,3,"2865R Albany Avenue, West Hartford, Connecticut, US (41.791, -72.787)",US-CT,07 Sep 2017,L6249570,S39048282
+783,Western Bluebird,1,Mt. Lemmon--Rose Canyon and Lake,US-AZ,21 Sep 2018,L129068,S48656738
+784,Black-faced Solitaire,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+785,Black-billed Nightingale-Thrush,3,PN Los Quetzales--Cerro Buenavista communication towers,CR-SJ,15 May 2019,L1126301,S56322773
+786,Orange-billed Nightingale-Thrush,1,"Unknown Location - (8.786, -82.959)",CR-P,14 May 2019,L9265881,S56272589
+787,Ruddy-capped Nightingale-Thrush,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+788,Veery,4,Lower Greenwoods Rec. Area - Barkhamsted,US-CT,10 May 2018,L1010128,S45535388
+789,Gray-cheeked Thrush,2,Fort De Soto Park,US-FL,25 Apr 2018,L127332,S44932073
+790,Bicknell's Thrush,1,Saddleback Mountain,US-ME,30 May 2019,L608589,S56897290
+791,Swainson's Thrush,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44403501
+792,Hermit Thrush,1,Babcock-Webb WMA,US-FL,19 Mar 2018,L127396,S43783871
+793,Wood Thrush,1,Keney Park,US-CT,21 May 2016,L6189670,S38686524
+794,Mountain Thrush,1,La Georgina,CR-C,15 May 2019,L1126285,S56322811
+795,Eurasian Blackbird,1,"1 Louis Vincent Street, Jerusalem (31.79, 35.229)",IL-JM,03 Sep 2019,L9871818,S59477189
+796,Pale-vented Thrush,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+797,White-throated Thrush,1,Wilson Botanical Garden (OTS Las Cruces),CR-P,13 May 2019,L441320,S56231953
+798,Clay-colored Thrush,5,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+799,Sooty Thrush,1,La Georgina,CR-C,15 May 2019,L1126285,S56322811
+800,American Robin,3,Keney Park,US-CT,21 May 2016,L6189670,S38686524
+801,Red-legged Thrush,1,Lantana Nature Preserve,US-FL,25 Apr 2019,L1293707,S55400945
+802,Spotted Flycatcher,3,Jerusalem Bird Observatory התחנה לחקר ציפורי ירושלים,IL-JM,04 Sep 2019,L967976,S59501483
+803,Silverbird,1,Central Serengeti Near Thomson Nyumba,TZ-13,26 Jul 2017,L6153177,S38483806
+804,White-browed Robin-Chat,2,Gibbs Farm,TZ-01,31 Jul 2017,L4045814,S38526634
+805,Collared Flycatcher,1,Jerusalem Bird Observatory התחנה לחקר ציפורי ירושלים,IL-JM,04 Sep 2019,L967976,S59501483
+806,Common Redstart,3,Jerusalem Bird Observatory התחנה לחקר ציפורי ירושלים,IL-JM,04 Sep 2019,L967976,S59501483
+807,Northern Wheatear,1,"Shlomo Lahat Promenade, Tel Aviv-Yafo, Tel Aviv District, IL (32.086, 34.766)",IL-TA,05 Sep 2019,L9878983,S59525840
+808,Cedar Waxwing,2,High Acres Nature Area,US-NY,26 Aug 2017,L418669,S38857271
+809,Black-and-yellow Silky-flycatcher,1,Paraiso Quetzal Lodge - Km 70,CR-SJ,17 May 2019,L1457094,S56417487
+810,Long-tailed Silky-flycatcher,1,"Calle San Gerardo, Provincia de Cartago, CR (9.596, -83.798)",CR-C,15 May 2019,L9274084,S56322745
+811,Phainopepla,1,"Forest Service 184 Road, Amado, Arizona, US (31.705, -111.05)",US-AZ,18 Sep 2018,L7939706,S48604541
+812,Green-headed Sunbird,1,Gibbs Farm,TZ-01,30 Jul 2017,L4045814,S38502677
+813,Olive Sunbird,1,Gibbs Farm,TZ-01,30 Jul 2017,L4045814,S38490057
+814,Bronze Sunbird,1,Gibbs Farm,TZ-01,31 Jul 2017,L4045814,S38526634
+815,Palestine Sunbird,1,"Jerusalem (31.784, 35.23)",IL-JM,03 Sep 2019,L9872318,S59479885
+816,Olive Warbler,1,Mt. Lemmon--Rose Canyon and Lake,US-AZ,21 Sep 2018,L129068,S48656738
+817,White-headed Buffalo-Weaver,1,Northern Serengeti National Park (Mara Region),TZ-13,26 Jul 2017,L6151339,S38483682
+818,Rufous-tailed Weaver,3,Central Serengeti Near Thomson Nyumba,TZ-13,27 Jul 2017,L6153177,S38487031
+819,Gray-headed Social-Weaver,2,Central Serengeti Near Thomson Nyumba,TZ-13,26 Jul 2017,L6153177,S38483806
+820,Baglafecht Weaver,1,Gibbs Farm,TZ-01,31 Jul 2017,L4045814,S38526634
+821,Scaly-breasted Munia,13,Pine Woods Park,US-FL,10 Nov 2018,L5584024,S49822958
+822,House Sparrow,3,"14 Sunny Slope Drive, West Hartford, Connecticut, US (41.78, -72.744)",US-CT,07 Aug 2017,L6161564,S38529035
+823,Eurasian Tree Sparrow,1,Essentia Health Wellness Garden,US-MN,27 Jun 2018,L7475575,S46839709
+824,Western Yellow Wagtail,2,"Unnamed Road, Tel Aviv-Yafo, Tel Aviv District, IL (32.066, 34.761)",IL-TA,05 Sep 2019,L9879000,S59525922
+825,African Pied Wagtail,1,Gibbs Farm,TZ-01,30 Jul 2017,L4045814,S38502677
+826,American Pipit,5,Hammonasset Beach SP--West End,US-CT,08 Oct 2018,L109205,S49052116
+827,Golden-browed Chlorophonia,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+828,Scrub Euphonia,4,"34, Puntarenas Province, CR (9.824, -84.597)",CR-P,09 May 2019,L9230991,S56053522
+829,Yellow-crowned Euphonia,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+830,Thick-billed Euphonia,2,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+831,Yellow-throated Euphonia,2,Villa Lapas,CR-P,10 May 2019,L585101,S56077401
+832,Fulvous-vented Euphonia,2,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+833,Spot-crowned Euphonia,1,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56168286
+834,Tawny-capped Euphonia,2,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+835,Evening Grosbeak,9,"80 Beech Hill Road, Colebrook, Connecticut, US (42.018, -73.084)",US-CT,05 Dec 2018,L8217231,S50440516
+836,House Finch,1,"14 Sunny Slope Drive, West Hartford, Connecticut, US (41.78, -72.744)",US-CT,08 Aug 2017,L6161564,S38538947
+837,Purple Finch,1,White Memorial Foundation--Main Area,US-CT,14 May 2018,L109165,S45661920
+838,European Greenfinch,1,Jerusalem Bird Observatory התחנה לחקר ציפורי ירושלים,IL-JM,04 Sep 2019,L967976,S59501483
+839,White-bellied Canary,1,Central Serengeti Near Thomson Nyumba,TZ-13,27 Jul 2017,L6153177,S38487031
+840,Thick-billed Seedeater,1,Gibbs Farm,TZ-01,31 Jul 2017,L4045814,S38526634
+841,Red Crossbill,9,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+842,Pine Siskin,5,Madera Canyon--Santa Rita Lodge,US-AZ,20 Sep 2018,L268114,S48635139
+843,Lesser Goldfinch,1,Little Park,US-CO,02 Sep 2017,L516843,S38959867
+844,American Goldfinch,1,Penwood State Park,US-CT,09 Aug 2017,L293431,S38558865
+845,Yellow-bellied Siskin,1,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+846,Lapland Longspur,3,Hammonasset Beach SP,US-CT,30 Nov 2018,L298379,S50317643
+847,Snow Bunting,2,Hammonasset Beach SP,US-CT,19 Dec 2017,L298379,S41195645
+848,Rosy Thrush-Tanager,1,Canopy Lodge,PA-2,11 Apr 2018,L604642,S44476673
+849,Sooty-capped Chlorospingus,1,"Calle San Gerardo, Provincia de Cartago, CR (9.596, -83.798)",CR-C,15 May 2019,L9274084,S56322745
+850,Common Chlorospingus,3,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+851,Rufous-winged Sparrow,1,St. David--Holy Trinity Monastery,US-AZ,14 Sep 2018,L348318,S48504654
+852,Stripe-headed Sparrow,3,"Calle Parque Municipal, Tarcoles, Provincia de Puntarenas, CR (9.769, -84.628)",CR-P,09 May 2019,L9232981,S56066588
+853,Botteri's Sparrow,4,Las Cienegas NCA--South Entrance (Santa Cruz Co.),US-AZ,18 Sep 2018,L765457,S48604550
+854,Cassin's Sparrow,2,Las Cienegas NCA--South Entrance (Santa Cruz Co.),US-AZ,18 Sep 2018,L765457,S48604550
+855,Bachman's Sparrow,1,Babcock-Webb WMA,US-FL,19 Apr 2018,L127396,S44720565
+856,Grasshopper Sparrow,2,Alva Scrub #195,US-FL,12 Mar 2018,L2921335,S43586196
+857,Yellow-browed Sparrow,5,"Nauta, Loreto, PE (-4.58, -73.72)",PE-LOR,08 Mar 2019,L8820347,S53644475
+858,Olive Sparrow,1,Santa Ana NWR (LTC 059),US-TX,07 Oct 2019,L129085,S60432282
+859,Black-striped Sparrow,2,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+860,Chipping Sparrow,2,Penwood State Park,US-CT,09 Aug 2017,L293431,S38558865
+861,Clay-colored Sparrow,3,Goose Pond,US-WI,24 Jun 2018,L209446,S46765421
+862,Field Sparrow,1,Fisher Meadows Recreation Area,US-CT,07 Dec 2017,L733301,S40955236
+863,Brewer's Sparrow,1,"North Moson Road, Sierra Vista, Arizona, US (31.57, -110.188)",US-AZ,17 Sep 2018,L7936456,S48576263
+864,Black-throated Sparrow,2,Las Cienegas NCA--South Entrance (Santa Cruz Co.),US-AZ,18 Sep 2018,L765457,S48604550
+865,Lark Sparrow,1,Oscar Scherer SP,US-FL,05 Feb 2018,L127350,S42521196
+866,Lark Bunting,1,Las Cienegas NCA--South Entrance (Santa Cruz Co.),US-AZ,18 Sep 2018,L765457,S48604550
+867,Orange-billed Sparrow,1,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+868,Chestnut-capped Brushfinch,2,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+869,American Tree Sparrow,5,Fisher Meadows Recreation Area,US-CT,11 Dec 2017,L733301,S41026256
+870,Fox Sparrow,2,Harkness Memorial SP,US-CT,03 Dec 2018,L297947,S50391354
+871,Dark-eyed Junco,5,Hartford Reservoir No. 6,US-CT,15 Nov 2017,L607644,S40518725
+872,Yellow-eyed Junco,6,"Unknown Location - (31.9, -109.227)",US-AZ,15 Sep 2018,L7930055,S48533278
+873,Volcano Junco,8,PN Los Quetzales--Cerro Buenavista communication towers,CR-SJ,15 May 2019,L1126301,S56322773
+874,Rufous-collared Sparrow,1,Wilson Botanical Garden (OTS Las Cruces),CR-P,13 May 2019,L441320,S56235517
+875,White-crowned Sparrow,2,Lighthouse Point Park,US-CT,11 Oct 2017,L109209,S39825664
+876,White-throated Sparrow,1,Lighthouse Point Park,US-CT,11 Oct 2017,L109209,S39825664
+877,Vesper Sparrow,5,Las Cienegas NCA--South Entrance (Santa Cruz Co.),US-AZ,18 Sep 2018,L765457,S48604550
+878,LeConte's Sparrow,4,"9800 Racek Road, Meadowlands, Minnesota, US (47.099, -92.722)",US-MN,27 Jun 2018,L7631080,S46830285
+879,Seaside Sparrow,1,Circle Beach Boat Ramp Road,US-CT,24 Jul 2018,L2189839,S47418861
+880,Nelson's Sparrow,5,Milford Pt. (CT Audubon),US-CT,06 Oct 2018,L109216,S48982080
+881,Saltmarsh Sparrow,7,Hammonasset Beach SP--Meig's Point Parking Lot/Marshes,US-CT,18 Jun 2018,L1880516,S46635054
+882,Savannah Sparrow,1,Sandy Point,US-CT,27 Sep 2017,L109233,S39417354
+883,Henslow's Sparrow,1,Goose Pond,US-WI,24 Jun 2018,L209446,S46765421
+884,Song Sparrow,1,High Acres Nature Area,US-NY,26 Aug 2017,L418669,S38857271
+885,Lincoln's Sparrow,1,"9800 Racek Road, Meadowlands, Minnesota, US (47.099, -92.722)",US-MN,27 Jun 2018,L7631080,S46830285
+886,Swamp Sparrow,1,Lighthouse Point Park,US-CT,11 Oct 2017,L109209,S39825664
+887,Large-footed Finch,1,La Georgina,CR-C,15 May 2019,L1126285,S56322811
+888,Canyon Towhee,1,Portal--Bob Rodrigues yard (Dave Jasper's old yard),US-AZ,15 Sep 2018,L994658,S48533348
+889,Abert's Towhee,2,San Pedro RNCA--San Pedro House and trails,US-AZ,16 Sep 2018,L129080,S48555858
+890,California Towhee,1,"735 1st Avenue, Chula Vista, California, US (32.629, -117.066)",US-CA,23 Sep 2018,L7950827,S48689752
+891,Rufous-crowned Sparrow,3,Montosa Canyon--km 1 (culvert area),US-AZ,18 Sep 2018,L281844,S48604543
+892,Green-tailed Towhee,1,"North Moson Road, Sierra Vista, Arizona, US (31.57, -110.188)",US-AZ,17 Sep 2018,L7936456,S48576263
+893,Spotted Towhee,1,Vancouver--Van Dusen Gardens,CA-BC,06 Sep 2018,L367682,S48330221
+894,Eastern Towhee,1,Northwest Park,US-CT,25 Sep 2017,L109225,S39382177
+895,Yellow-thighed Brushfinch,1,"Calle San Gerardo, San Gerardo de Dota, San José, CR (9.559, -83.803)",CR-SJ,15 May 2019,L9274050,S56322510
+896,Western Spindalis,1,Crandon Park,US-FL,21 Feb 2019,L127422,S52993125
+897,Wrenthrush,1,Paraiso Quetzal Lodge - Km 70,CR-SJ,17 May 2019,L1457094,S56417487
+898,Yellow-breasted Chat,1,Lakes Regional Park,US-FL,15 Mar 2018,L305312,S43664871
+899,Yellow-headed Blackbird,3,Sem-Chi Rice Mill,US-FL,18 Mar 2018,L4478244,S43744697
+900,Bobolink,7,Hammonasset Beach SP--Meig's Point Parking Lot/Marshes,US-CT,11 May 2018,L1880516,S45557522
+901,Eastern Meadowlark,1,"11201 Daniels Parkway, Fort Myers, Florida, US (26.548, -81.772)",US-FL,30 Oct 2017,L6427022,S40215546
+902,Red-breasted Meadowlark,6,"Unknown Location - (8.7, -83.196)",CR-P,12 May 2019,L9251768,S56177303
+903,Russet-backed Oropendola,2,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+904,Crested Oropendola,3,"Unnamed Road, El Valle de Antón, Provincia de Coclé, PA (8.539, -80.199)",PA-2,10 Apr 2018,L7203716,S44444850
+905,Chestnut-headed Oropendola,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44392862
+906,Montezuma Oropendola,15,West of El Valle on road to Pacific lowlands,PA-2,11 Apr 2018,L7208602,S44476527
+907,Scarlet-rumped Cacique,1,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56195319
+908,Yellow-rumped Cacique,1,West of El Valle on road to Pacific lowlands,PA-2,11 Apr 2018,L7208602,S44476527
+909,Orchard Oriole,2,Point Ybel Lighthouse Beach Park,US-FL,06 Apr 2018,L127398,S44293781
+910,Streak-backed Oriole,2,"Calle Parque Municipal, Tarcoles, Provincia de Puntarenas, CR (9.769, -84.628)",CR-P,09 May 2019,L9232981,S56066588
+911,Bullock's Oriole,1,Portal--Willow Tank,US-AZ,16 Sep 2018,L129123,S48565659
+912,Altamira Oriole,1,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+913,Audubon's Oriole,3,Salineño Wildlife Preserve (LTC 080),US-TX,08 Oct 2019,L129075,S60453102
+914,Baltimore Oriole,1,Keney Park,US-CT,21 May 2016,L6189670,S38686524
+915,Red-winged Blackbird,7,High Acres Nature Area,US-NY,26 Aug 2017,L418669,S38857271
+916,Shiny Cowbird,4,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+917,Bronzed Cowbird,2,Amado WTP,US-AZ,18 Sep 2018,L233071,S48604544
+918,Brown-headed Cowbird,1,Keney Park,US-CT,21 May 2016,L6189670,S38686524
+919,Giant Cowbird,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+920,Melodious Blackbird,3,"Villa San Ignacio, Alajuela",CR-A,09 May 2019,L1144236,S56038518
+921,Scrub Blackbird,25,"1301 Avenida Jose Larco, Miraflores, Gobierno Regional de Lima, PE (-12.131, -77.03)",PE-LIM,03 Mar 2019,L8727366,S53315045
+922,Brewer's Blackbird,5,Buena Vista Grasslands/Marsh,US-WI,25 Jun 2018,L157683,S46787915
+923,Common Grackle,4,"14 Sunny Slope Drive, West Hartford, Connecticut, US (41.78, -72.744)",US-CT,07 Aug 2017,L6161564,S38529035
+924,Boat-tailed Grackle,1,"13260 Intrepid Lane, Fort Myers, Florida, US (26.552, -81.782)",US-FL,18 Aug 2017,L6191841,S38700023
+925,Great-tailed Grackle,2,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+926,Oriole Blackbird,1,"Nauta, Loreto, PE (-4.658, -73.804)",PE-LOR,07 Mar 2019,L8820199,S53643625
+927,Yellow-hooded Blackbird,22,"Nauta, Loreto, PE (-4.451, -73.455)",PE-LOR,06 Mar 2019,L8820153,S53643479
+928,Ovenbird,1,Great Pond Trail,US-CT,08 Sep 2017,L2128535,S39063358
+929,Worm-eating Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,06 Apr 2018,L127398,S44293781
+930,Louisiana Waterthrush,1,Big Cypress National Preserve--Kirby Storter Roadside Park & Boardwalk ,US-FL,24 Feb 2018,L638541,S43139973
+931,Northern Waterthrush,1,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+932,Golden-winged Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,21 Apr 2019,L127398,S55210235
+933,Blue-winged Warbler,3,White Memorial Foundation--Main Area,US-CT,14 May 2018,L109165,S45661920
+934,Black-and-white Warbler,1,"2865R Albany Avenue, West Hartford, Connecticut, US (41.791, -72.787)",US-CT,07 Sep 2017,L6249570,S39048282
+935,Prothonotary Warbler,3,Point Ybel Lighthouse Beach Park,US-FL,06 Apr 2018,L127398,S44293781
+936,Flame-throated Warbler,1,La Georgina,CR-C,15 May 2019,L1126285,S56322811
+937,Tennessee Warbler,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+938,Orange-crowned Warbler,1,Six Mile Cypress Slough Preserve,US-FL,16 Feb 2018,L424819,S42851662
+939,Lucy's Warbler,2,Paton Center for Hummingbirds (Patons' Yard),US-AZ,18 Sep 2018,L247122,S48604547
+940,Nashville Warbler,2,"Turkey Farm Road, Lake Nebagamon, Wisconsin, US (46.429, -91.737)",US-WI,26 Jun 2018,L7627118,S46810675
+941,Connecticut Warbler,2,"9800 Racek Road, Meadowlands, Minnesota, US (47.099, -92.722)",US-MN,27 Jun 2018,L7631080,S46830285
+942,MacGillivray's Warbler,1,Montosa Canyon--km 1 (culvert area),US-AZ,18 Sep 2018,L281844,S48604543
+943,Mourning Warbler,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+944,Kentucky Warbler,2,Point Ybel Lighthouse Beach Park,US-FL,20 Apr 2018,L127398,S44748061
+945,Common Yellowthroat,1,Harns Marsh,US-FL,05 Oct 2017,L830108,S39564130
+946,Hooded Warbler,3,Point Ybel Lighthouse Beach Park,US-FL,06 Apr 2018,L127398,S44293781
+947,American Redstart,1,Spice Bush Swamp Park,US-CT,23 Aug 2017,L1177569,S38787959
+948,Cape May Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,20 Apr 2018,L127398,S44748061
+949,Cerulean Warbler,2,"14 North Hollow Road, Hartland, Connecticut, US (42.031, -72.925)",US-CT,10 Jun 2018,L7550671,S46445789
+950,Northern Parula,2,"13883-13927 Waterfront Drive, Bokeelia, Florida, US (26.661, -82.153)",US-FL,29 Jan 2018,L6795142,S42340315
+951,Tropical Parula,1,Wilson Botanical Garden (OTS Las Cruces),CR-P,13 May 2019,L441320,S56244702
+952,Magnolia Warbler,1,Island Cottage Woods--Wildfowl Club Entrance,US-NY,26 Aug 2017,L1143283,S38833709
+953,Bay-breasted Warbler,1,McLean Game Refuge,US-CT,09 Sep 2017,L280794,S39087659
+954,Blackburnian Warbler,1,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+955,Yellow Warbler,1,San Carlos Bay/Bunche Beach Preserve,US-FL,01 Oct 2017,L301036,S39492096
+956,Chestnut-sided Warbler,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+957,Blackpoll Warbler,3,Point Ybel Lighthouse Beach Park,US-FL,20 Apr 2018,L127398,S44748061
+958,Black-throated Blue Warbler,1,"4048 Northwest 60th Avenue, Virginia Gardens, Florida, US (25.811, -80.295)",US-FL,25 Feb 2018,L6984512,S43164531
+959,Palm Warbler,1,Hammonasset Beach SP,US-CT,11 Sep 2017,L298379,S39127718
+960,Pine Warbler,2,Caloosahatchee Creeks Preserve--East,US-FL,21 Oct 2017,L674344,S40043417
+961,Yellow-rumped Warbler,1,Fisher Meadows Recreation Area,US-CT,08 Oct 2017,L733301,S39622224
+962,Yellow-throated Warbler,1,Caloosahatchee Creeks Preserve--East,US-FL,21 Oct 2017,L674344,S40043417
+963,Prairie Warbler,1,"Cullum's Bonita Trail, Bonita Springs, Florida, US (26.337, -81.746)",US-FL,02 Nov 2017,L6433964,S40268334
+964,Black-throated Gray Warbler,1,Vancouver--Van Dusen Gardens,CA-BC,06 Sep 2018,L367682,S48330221
+965,Townsend's Warbler,1,"100 McBride Street, Prince Rupert, British Columbia, CA (54.317, -130.324)",CA-BC,03 Sep 2018,L7889750,S48265108
+966,Hermit Warbler,1,Cave Creek Canyon--South Fork,US-AZ,15 Sep 2018,L129099,S48533199
+967,Black-throated Green Warbler,1,"Cullum's Bonita Trail, Bonita Springs, Florida, US (26.337, -81.746)",US-FL,02 Nov 2017,L6433964,S40268334
+968,Rufous-capped Warbler,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+969,Black-cheeked Warbler,3,PN Los Quetzales--Cerro Buenavista communication towers,CR-SJ,15 May 2019,L1126301,S56322773
+970,Buff-rumped Warbler,1,Canopy Lodge,PA-2,11 Apr 2018,L604642,S44476673
+971,Canada Warbler,1,Fisher Meadows Recreation Area,US-CT,07 May 2018,L733301,S45405911
+972,Wilson's Warbler,1,"301 Jasmine Street, Denver, Colorado, US (39.722, -104.919)",US-CO,01 Sep 2017,L6231455,S39026092
+973,Painted Redstart,6,Cave Creek Canyon--South Fork,US-AZ,15 Sep 2018,L129099,S48533199
+974,Collared Redstart,2,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+975,Dusky-faced Tanager,2,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+976,Hepatic Tanager,3,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+977,Summer Tanager,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44403501
+978,Scarlet Tanager,2,Hartford Reservoir No. 6,US-CT,10 Aug 2017,L607644,S38574234
+979,Western Tanager,1,St. David--Holy Trinity Monastery,US-AZ,14 Sep 2018,L348318,S48504654
+980,Flame-colored Tanager,1,La Georgina,CR-C,15 May 2019,L1126285,S56322811
+981,Red-crowned Ant-Tanager,2,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+982,Red-throated Ant-Tanager,1,Cara Iguana,PA-2,09 Apr 2018,L2119256,S44413530
+983,Black-faced Grosbeak,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+984,Northern Cardinal,1,"500 Broad Street, Windsor, Connecticut, US (41.85, -72.779)",US-CT,09 Aug 2017,L6166936,S38559607
+985,Pyrrhuloxia,1,Portal--Bob Rodrigues yard (Dave Jasper's old yard),US-AZ,14 Sep 2018,L994658,S48510315
+986,Black-thighed Grosbeak,2,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+987,Rose-breasted Grosbeak,1,Westmoor Park,US-CT,10 Sep 2017,L198655,S39110442
+988,Black-headed Grosbeak,1,Cave Creek Canyon--Southwestern Research Station,US-AZ,15 Sep 2018,L129102,S48533218
+989,Blue-black Grosbeak,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+990,Blue Grosbeak,4,Oscar Scherer SP,US-FL,05 Feb 2018,L127350,S42521196
+991,Lazuli Bunting,2,San Pedro RNCA--San Pedro House and trails,US-AZ,17 Sep 2018,L129080,S48579502
+992,Indigo Bunting,1,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,15 Jan 2018,L6724846,S41948244
+993,Varied Bunting,1,Walker Canyon,US-AZ,19 Sep 2018,L1051139,S48634956
+994,Painted Bunting,4,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,15 Jan 2018,L6724846,S41948244
+995,Dickcissel,12,Sauk Prairie Recreation Area,US-WI,24 Jun 2018,L2877214,S46770376
+996,Red-capped Cardinal,3,"Nauta, Loreto, PE (-4.451, -73.455)",PE-LOR,06 Mar 2019,L8820153,S53643479
+997,Gray-headed Tanager,5,"Nauta, Loreto, PE (-4.659, -73.803)",PE-LOR,07 Mar 2019,L8820192,S53643601
+998,White-shouldered Tanager,1,Canopy Adventure,PA-2,13 Apr 2018,L1659574,S44527311
+999,Tawny-crested Tanager,3,La Mesa,PA-2,11 Apr 2018,L1532299,S44476552
+1000,White-lined Tanager,2,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+1001,Flame-rumped Tanager,3,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+1002,Scarlet-rumped Tanager,1,Villa Lapas,CR-P,10 May 2019,L585101,S56077401
+1003,Silver-beaked Tanager,4,"Unknown Location - (-3.818, -73.321)",PE-LOR,04 Mar 2019,L8820083,S53643161
+1004,Masked Crimson Tanager,4,"Saquena, Loreto, PE (-4.523, -73.447)",PE-LOR,06 Mar 2019,L8820146,S53643454
+1005,Crimson-backed Tanager,3,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+1006,Blue-gray Tanager,1,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+1007,Palm Tanager,2,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44403501
+1008,Speckled Tanager,1,Wilson Botanical Garden (OTS Las Cruces),CR-P,13 May 2019,L441320,S56235517
+1009,Golden-hooded Tanager,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+1010,Spangle-cheeked Tanager,2,Savegre Hotel,CR-SJ,16 May 2019,L501858,S56344820
+1011,Plain-colored Tanager,2,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+1012,Bay-headed Tanager,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+1013,Silver-throated Tanager,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+1014,Yellow-bellied Dacnis,1,"Saquena, Loreto, PE (-4.523, -73.447)",PE-LOR,06 Mar 2019,L8820146,S53643454
+1015,Scarlet-thighed Dacnis,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506637
+1016,Shining Honeycreeper,4,Esquinas Rainforest Lodge,CR-P,12 May 2019,L1026422,S56195319
+1017,Red-legged Honeycreeper,2,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44406870
+1018,Green Honeycreeper,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44403497
+1019,Sulphur-rumped Tanager,2,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506418
+1020,Black-and-yellow Tanager,5,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954
+1021,Slaty Flowerpiercer,2,"Calle San Gerardo, Provincia de Cartago, CR (9.596, -83.798)",CR-C,15 May 2019,L9274084,S56322745
+1022,Saffron Finch,2,"Cercado de Lima, Gobierno Regional de Lima, PE (-12.045, -77.028)",PE-LIM,03 Mar 2019,L8751770,S53356839
+1023,Wedge-tailed Grass-Finch,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+1024,Blue-black Grassquit,4,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444950
+1025,Chestnut-bellied Seedeater,1,"Fernando Lores, Loreto, PE (-4.182, -73.362)",PE-LOR,05 Mar 2019,L8820105,S53643265
+1026,Ruddy-breasted Seedeater,1,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444950
+1027,Thick-billed Seed-Finch,1,Rio Indio,PA-8,12 Apr 2018,L1532334,S44506559
+1028,Variable Seedeater,1,Canopy Lodge,PA-2,08 Apr 2018,L604642,S44379875
+1029,Caqueta Seedeater,1,"Saquena, Loreto, PE (-4.523, -73.447)",PE-LOR,06 Mar 2019,L8820146,S53643454
+1030,Morelet's Seedeater,1,Salineño Wildlife Preserve (LTC 080),US-TX,08 Oct 2019,L129075,S60453102
+1031,Yellow-bellied Seedeater,7,"Unknown Location - (8.7, -83.196)",CR-P,12 May 2019,L9251768,S56177303
+1032,Bananaquit,1,Canopy Lodge,PA-2,09 Apr 2018,L604642,S44392862
+1033,Yellow-faced Grassquit,2,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+1034,Buff-throated Saltator,1,Las Minas,PA-2,09 Apr 2018,L1532289,S44403522
+1035,Grayish Saltator,1,"Nauta, Loreto, PE (-4.564, -73.874)",PE-LOR,07 Mar 2019,L8820383,S53644614
+1036,Streaked Saltator,1,"Unnamed Road, El Chirú, Provincia de Coclé, PA (8.388, -80.23)",PA-2,10 Apr 2018,L7203740,S44444950
+1037,Slate-colored Grosbeak,1,Altos del Maria--Elevación 900-1100 msnm,PA-8,14 Apr 2018,L3182851,S44573954

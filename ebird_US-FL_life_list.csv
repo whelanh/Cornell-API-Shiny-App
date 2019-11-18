@@ -1,0 +1,301 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Black-bellied Whistling-Duck,4,Wild Turkey Strand Preserve,US-FL,29 Dec 2017,L1903106,S41410966
+2,Fulvous Whistling-Duck,7,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+3,Canada Goose,7,"Interstate 10, Jacksonville, Florida, US (30.307, -81.877)",US-FL,18 Oct 2018,L8042458,S49269763
+4,Mute Swan,2,Coconut Point Mall,US-FL,21 Jan 2018,L1328075,S42123842
+5,Egyptian Goose,2,"8400-8452 Southwest 87th Avenue, Miami, Florida, US (25.692, -80.334)",US-FL,25 Feb 2018,L6985876,S43173835
+6,Muscovy Duck,13,"4335-4345 Tufts Avenue, Fort Myers, Florida, US (26.599, -81.879)",US-FL,21 Jan 2018,L6756743,S42121430
+7,Wood Duck,2,Six Mile Cypress Slough Preserve,US-FL,24 Jan 2018,L424819,S42208027
+8,Blue-winged Teal,9,J. N. Ding Darling NWR--Wildlife Drive,US-FL,18 Oct 2017,L823147,S39995185
+9,Cinnamon Teal,1,Merritt Island NWR--Black Point Wildlife Drive,US-FL,21 Jan 2019,L127381,S51898817
+10,Northern Shoveler,2,Estero Bay Preserve SP--Winkler Point,US-FL,31 Dec 2017,L2589166,S41464521
+11,American Wigeon,5,Estero Bay Preserve SP--Winkler Point,US-FL,31 Dec 2017,L2589166,S41464521
+12,Mallard,1,"Daniels Parkway, Fort Myers, Florida, US (26.547, -81.827)",US-FL,08 Mar 2018,L7035392,S43476062
+13,Mottled Duck,4,J. N. Ding Darling NWR--Wildlife Drive,US-FL,20 Aug 2017,L823147,S38729364
+14,Northern Pintail,8,Lake Apopka Wildlife Drive,US-FL,20 Jan 2019,L298649,S51866010
+15,Green-winged Teal,1,Wild Turkey Strand Preserve,US-FL,29 Dec 2017,L1903106,S41410966
+16,Canvasback,1,Lake Apopka Wildlife Drive,US-FL,20 Jan 2019,L298649,S51866010
+17,Redhead,2,Merritt Island NWR--Black Point Wildlife Drive,US-FL,24 Jan 2019,L127381,S52008777
+18,Ring-necked Duck,4,Harns Marsh,US-FL,11 Nov 2017,L830108,S40438561
+19,Greater Scaup,2,J. N. Ding Darling NWR,US-FL,18 Jan 2018,L127397,S42042049
+20,Lesser Scaup,4,Estero Bay Preserve SP--Winkler Point,US-FL,11 Jan 2018,L2589166,S41816296
+21,Common Eider,1,"100-198 Glen Cheek Drive, Port Canaveral, Florida, US (28.41, -80.606)",US-FL,19 May 2018,L7435631,S45841454
+22,Surf Scoter,3,San Carlos Bay/Bunche Beach Preserve,US-FL,28 Jan 2019,L301036,S52136236
+23,White-winged Scoter,1,Lynn Hall Memorial Park & Pier,US-FL,30 Jan 2018,L1331461,S42372458
+24,Black Scoter,25,San Carlos Bay/Bunche Beach Preserve,US-FL,04 Jan 2019,L301036,S51294080
+25,Long-tailed Duck,1,Shiloh Marsh,US-FL,25 Jan 2019,L8491061,S52039513
+26,Bufflehead,6,Shiloh Marsh,US-FL,25 Jan 2019,L8491061,S52039513
+27,Common Goldeneye,1,Chapel Hill Cemetery,US-FL,20 Jan 2019,L8393343,S51867818
+28,Hooded Merganser,6,Harns Marsh,US-FL,06 Jan 2018,L830108,S41671901
+29,Red-breasted Merganser,26,Estero Bay Preserve SP--Winkler Point,US-FL,31 Dec 2017,L2589166,S41464521
+30,Ruddy Duck,2,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+31,Northern Bobwhite,1,Alva Scrub #195,US-FL,01 Mar 2018,L2921335,S43289274
+32,Indian Peafowl,1,Matheson Hammock Park,US-FL,25 Feb 2018,L127425,S43166649
+33,Wild Turkey,1,I 75 Median/ Mile Marker 118.5,US-FL,22 Feb 2018,L6971137,S43088485
+34,American Flamingo,1,St. Marks NWR--Stoney Bayou 2,US-FL,02 May 2019,L582780,S55680487
+35,Least Grebe,1,Peaceful Waters Sanctuary,US-FL,13 Apr 2019,L1017638,S54902974
+36,Pied-billed Grebe,2,Six Mile Cypress Slough Preserve,US-FL,10 Jan 2017,L424819,S38539010
+37,Horned Grebe,3,"3401 Tropical Point Drive, Saint James City, Florida, US (26.547, -82.081)",US-FL,29 Jan 2018,L6795889,S42344272
+38,Rock Pigeon,23,"3412 U.S. 41, Fort Myers, Florida, US (26.615, -81.872)",US-FL,21 Jan 2018,L6756781,S42121633
+39,White-crowned Pigeon,2,"1001 James Street, Key West, Florida, US (24.561, -81.798)",US-FL,22 Mar 2018,L7104085,S43867437
+40,Eurasian Collared-Dove,2,I95 Florida Welcome Centre,US-FL,15 Oct 2017,L3479704,S39931211
+41,Common Ground Dove,1,J. N. Ding Darling NWR--Wildlife Drive,US-FL,20 Aug 2017,L823147,S38729364
+42,Key West Quail-Dove,1,Dr. Von D. Mizell-Eula Johnson SP,US-FL,22 Apr 2019,L5744252,S55259950
+43,White-winged Dove,1,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,15 Jan 2018,L6724846,S41948244
+44,Mourning Dove,3,Caloosahatchee Creeks Preserve--East,US-FL,12 Aug 2017,L674344,S38602142
+45,Smooth-billed Ani,1,J. N. Ding Darling NWR--Bailey Tract,US-FL,30 Dec 2018,L127399,S51084364
+46,Groove-billed Ani,1,Winding Waters Natural area,US-FL,04 Feb 2019,L2726529,S52369547
+47,Dark-billed Cuckoo,1,West Delray Regional Park,US-FL,10 Feb 2019,L1427512,S52548955
+48,Yellow-billed Cuckoo,1,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+49,Mangrove Cuckoo,2,Rookery Bay NERR,US-FL,11 Jul 2018,L2528252,S47128547
+50,Common Nighthawk,5,Rookery Bay NERR,US-FL,11 Jul 2018,L2528252,S47128547
+51,Chuck-will's-widow,2,Babcock-Webb WMA,US-FL,19 Mar 2018,L127396,S43783871
+52,Chimney Swift,8,Point Ybel Lighthouse Beach Park,US-FL,22 Apr 2018,L127398,S44815453
+53,Ruby-throated Hummingbird,1,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,19 Jan 2018,L6724846,S42067465
+54,King Rail,2,Fakahatchee Strand Preserve SP--Janes Scenic Drive,US-FL,28 Feb 2018,L127405,S43259542
+55,Clapper Rail,6,Shiloh Marsh,US-FL,25 Jan 2019,L8491061,S52039513
+56,Virginia Rail,1,Babcock-Webb WMA,US-FL,31 Dec 2018,L127396,S51123496
+57,Giant Wood-Rail,1,Bailey Homestead Wetlands Preserve,US-FL,18 Jan 2018,L6595361,S42045816
+58,Sora,1,"1032-1570 Raymond Road, Sarasota, Florida, US (27.321, -82.435)",US-FL,15 Jan 2018,L6721858,S41930304
+59,Common Gallinule,1,Six Mile Cypress Slough Preserve,US-FL,29 Jan 2017,L424819,S34013446
+60,American Coot,1,Lakes Regional Park,US-FL,28 Oct 2017,L305312,S40168176
+61,Purple Gallinule,1,Lake Trafford--Annie Olesky Park,US-FL,28 Jan 2017,L782931,S38686694
+62,Gray-headed Swamphen,4,Harns Marsh,US-FL,11 Nov 2017,L830108,S40438561
+63,Limpkin,1,Six Mile Cypress Slough Preserve,US-FL,12 Aug 2017,L424819,S38601114
+64,Sandhill Crane,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,16 Feb 2015,L6319667,S39398621
+65,Whooping Crane,2,"813 Lake Altur Road, Lake Wales, Florida, US (27.884, -81.645)",US-FL,24 Feb 2019,L8693685,S53099831
+66,Black-necked Stilt,1,Wakodahatchee Wetlands,US-FL,05 Mar 2018,L143084,S43408258
+67,American Avocet,10,Myakka River SP--Birdwalk,US-FL,15 Jan 2018,L882829,S41935245
+68,American Oystercatcher,3,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+69,Black-bellied Plover,2,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+70,Snowy Plover,1,San Carlos Bay/Bunche Beach Preserve,US-FL,28 Jan 2018,L301036,S42312456
+71,Wilson's Plover,1,San Carlos Bay/Bunche Beach Preserve,US-FL,22 Oct 2017,L301036,S40061730
+72,Semipalmated Plover,,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+73,Piping Plover,3,San Carlos Bay/Bunche Beach Preserve,US-FL,22 Oct 2017,L301036,S40061730
+74,Killdeer,7,"11201 Daniels Parkway, Fort Myers, Florida, US (26.548, -81.772)",US-FL,30 Oct 2017,L6427022,S40215546
+75,Upland Sandpiper,7,"1237 Northwest 25th Terrace, Cape Coral, Florida, US (26.7, -82.001)",US-FL,19 Apr 2018,L7246411,S44722139
+76,Marbled Godwit,1,San Carlos Bay/Bunche Beach Preserve,US-FL,03 Oct 2017,L301036,S39536546
+77,Ruddy Turnstone,1,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+78,Red Knot,43,San Carlos Bay/Bunche Beach Preserve,US-FL,28 Jan 2018,L301036,S42312456
+79,Sanderling,5,San Carlos Bay/Bunche Beach Preserve,US-FL,01 Oct 2017,L301036,S39492096
+80,Dunlin,1,San Carlos Bay/Bunche Beach Preserve,US-FL,22 Oct 2017,L301036,S40061730
+81,Least Sandpiper,5,San Carlos Bay/Bunche Beach Preserve,US-FL,06 Nov 2017,L301036,S40350207
+82,Western Sandpiper,2,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+83,Short-billed Dowitcher,3,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+84,Long-billed Dowitcher,35,"8543-9143 Palmer Boulevard, Sarasota, Florida, US (27.314, -82.398)",US-FL,15 Jan 2018,L6722017,S41931184
+85,Wilson's Snipe,3,Wild Turkey Strand Preserve,US-FL,29 Dec 2017,L1903106,S41410966
+86,Spotted Sandpiper,6,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+87,Solitary Sandpiper,1,Hickory Swamp Preserve,US-FL,22 Oct 2018,L346219,S49370398
+88,Greater Yellowlegs,1,J. N. Ding Darling NWR--Wildlife Drive,US-FL,20 Aug 2017,L823147,S38729364
+89,Willet,8,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+90,Lesser Yellowlegs,6,J. N. Ding Darling NWR,US-FL,07 Nov 2017,L127397,S40366805
+91,Pomarine Jaeger,1,"Florida, US (24.635, -81.905)",US-FL,22 Mar 2018,L7110886,S43871703
+92,Bonaparte's Gull,1,Nokomis Public Beach,US-FL,20 Mar 2019,L2602995,S54039594
+93,Laughing Gull,1,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+94,Ring-billed Gull,1,Lakes Regional Park,US-FL,05 Jan 2018,L305312,S41647806
+95,Herring Gull,1,San Carlos Bay/Bunche Beach Preserve,US-FL,28 Jan 2018,L301036,S42312456
+96,Lesser Black-backed Gull,1,Bowmans Beach Regional Park,US-FL,18 Jan 2018,L476488,S42042988
+97,Great Black-backed Gull,3,Parrish Park,US-FL,24 Jan 2019,L814410,S51992496
+98,Brown Noddy,50,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+99,Sooty Tern,90,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+100,Bridled Tern,1,"US (28.432, -80.259)",US-FL,19 May 2018,L7441320,S45872336
+101,Least Tern,50,Coconut Island,US-FL,27 Apr 2018,L7292449,S44990150
+102,Gull-billed Tern,1,Orlando Wetlands Park,US-FL,22 Jan 2019,L452007,S51929757
+103,Caspian Tern,2,San Carlos Bay/Bunche Beach Preserve,US-FL,31 Oct 2017,L301036,S40243285
+104,Black Tern,2,"US (28.432, -80.259)",US-FL,19 May 2018,L7441320,S45872336
+105,Common Tern,1,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+106,Forster's Tern,3,Bowditch Point Park,US-FL,26 Oct 2017,L337347,S40129407
+107,Royal Tern,,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+108,Sandwich Tern,3,Bowditch Point Park,US-FL,26 Oct 2017,L337347,S40129407
+109,Black Skimmer,8,San Carlos Bay/Bunche Beach Preserve,US-FL,31 Oct 2017,L301036,S40243285
+110,Common Loon,1,"13821 Waterfront Drive, Bokeelia, Florida, US (26.661, -82.153)",US-FL,17 Jan 2019,L8444787,S51764514
+111,Wilson's Storm-Petrel,2,"Unknown Location - (28.363, -80.234)",US-FL,19 May 2018,L7440231,S45866309
+112,Band-rumped Storm-Petrel,1,"(28.586, -79.9)",US-FL,19 May 2018,L7441083,S45870969
+113,Black-capped Petrel,1,"(28.586, -79.9)",US-FL,19 May 2018,L7441083,S45870969
+114,Audubon's Shearwater,1,Yankee Freedom III route,US-FL,22 Mar 2018,L7111086,S43910369
+115,Wood Stork,1,"13652-13682 Fiddlesticks Boulevard, Fort Myers, Florida, US (26.545, -81.804)",US-FL,11 Aug 2017,L6172662,S38592407
+116,Magnificent Frigatebird,12,Bowmans Beach Regional Park,US-FL,07 Nov 2017,L476488,S40366295
+117,Masked Booby,62,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+118,Brown Booby,1,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+119,Anhinga,5,Six Mile Cypress Slough Preserve,US-FL,29 Oct 2016,L424819,S38539035
+120,Neotropic Cormorant,1,Wakodahatchee Wetlands,US-FL,14 Feb 2019,L143084,S52683691
+121,Double-crested Cormorant,2,J. N. Ding Darling NWR--Wildlife Drive,US-FL,20 Aug 2017,L823147,S38729364
+122,American White Pelican,11,Lovers Key SP,US-FL,26 Oct 2017,L160668,S40131693
+123,Brown Pelican,,Hurricane Bay,US-FL,10 Oct 2015,L6189690,S38686627
+124,American Bittern,1,Lake Trafford--Annie Olesky Park,US-FL,28 Jan 2017,L782931,S38686694
+125,Least Bittern,1,Green Cay Wetlands & Nature Center,US-FL,05 Mar 2018,L246929,S43402852
+126,Great Blue Heron,,Hurricane Bay,US-FL,10 Oct 2015,L6189690,S38686627
+127,Great Egret,1,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+128,Snowy Egret,1,J. N. Ding Darling NWR--Wildlife Drive,US-FL,15 Feb 2014,L823147,S38686563
+129,Little Blue Heron,1,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+130,Tricolored Heron,1,J. N. Ding Darling NWR--Wildlife Drive,US-FL,15 Feb 2014,L823147,S38686563
+131,Reddish Egret,3,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+132,Cattle Egret,3,Harns Marsh,US-FL,05 Oct 2017,L830108,S39564130
+133,Green Heron,1,Rotary Park -- Environmental Center,US-FL,01 Nov 2017,L1438140,S40250480
+134,Black-crowned Night-Heron,1,Six Mile Cypress Slough Preserve,US-FL,27 Mar 2016,L424819,S38686660
+135,Yellow-crowned Night-Heron,2,J. N. Ding Darling NWR--Wildlife Drive,US-FL,20 Aug 2017,L823147,S38729364
+136,White Ibis,9,Six Mile Cypress Slough Preserve,US-FL,29 Oct 2016,L424819,S38539035
+137,Glossy Ibis,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,06 Oct 2017,L6319667,S39578004
+138,White-faced Ibis,1,Lake Apopka Wildlife Drive,US-FL,20 Jan 2019,L298649,S51866010
+139,Roseate Spoonbill,,J. N. Ding Darling NWR--Wildlife Drive,US-FL,15 Feb 2014,L823147,S38686563
+140,Black Vulture,2,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,30 Sep 2017,L6319667,S39483418
+141,Turkey Vulture,5,Harns Marsh,US-FL,05 Oct 2017,L830108,S39564130
+142,Osprey,1,Hurricane Bay,US-FL,10 Oct 2015,L6189690,S38686627
+143,Swallow-tailed Kite,1,Harns Marsh,US-FL,27 Feb 2018,L830108,S43233206
+144,Snail Kite,1,Wild Turkey Strand Preserve,US-FL,16 Oct 2017,L1903106,S39958717
+145,Northern Harrier,1,Harns Marsh,US-FL,06 Jan 2018,L830108,S41671901
+146,Sharp-shinned Hawk,1,Corkscrew Regional Ecosystem Watershed,US-FL,29 Oct 2017,L482219,S40186946
+147,Cooper's Hawk,1,Babcock-Webb WMA,US-FL,19 Jan 2018,L127396,S42065694
+148,Bald Eagle,1,San Carlos Bay/Bunche Beach Preserve,US-FL,03 Oct 2017,L301036,S39536546
+149,Red-shouldered Hawk,2,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+150,Broad-winged Hawk,1,Matheson Hammock Park,US-FL,25 Feb 2018,L127425,S43166649
+151,Short-tailed Hawk,1,Fakahatchee Strand Preserve SP--Big Cypress Bend Boardwalk,US-FL,08 Jan 2018,L662393,S41743711
+152,Red-tailed Hawk,2,Harns Marsh,US-FL,19 Oct 2017,L830108,S40010621
+153,Barn Owl,1,"4411 Sunshine Boulevard, Saint James City, Florida, US (26.533, -82.099)",US-FL,17 Jan 2019,L8445866,S51770447
+154,Eastern Screech-Owl,1,Green Cay Wetlands & Nature Center,US-FL,05 Mar 2018,L246929,S43402852
+155,Great Horned Owl,1,Pine Island,US-FL,29 Jan 2018,L6796465,S42347474
+156,Burrowing Owl,3,Pelican Blvd. Baseball Fields,US-FL,07 Jan 2018,L886942,S41702365
+157,Barred Owl,1,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+158,Belted Kingfisher,1,Hurricane Bay,US-FL,10 Oct 2015,L6189690,S38686627
+159,Yellow-bellied Sapsucker,1,Lakes Park  - (Area 7),US-FL,06 Nov 2017,L371129,S40347803
+160,Red-headed Woodpecker,3,Caloosahatchee Creeks Preserve--East,US-FL,01 Feb 2018,L674344,S42407497
+161,Red-bellied Woodpecker,2,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+162,Downy Woodpecker,1,"10401 Dartington Drive, Fort Myers, Florida (Restricted Access)",US-FL,16 Oct 2017,L6319664,S39953781
+163,Red-cockaded Woodpecker,1,Babcock-Webb WMA,US-FL,19 Jan 2018,L127396,S42065694
+164,Hairy Woodpecker,1,Babcock-Webb WMA,US-FL,29 Jan 2019,L127396,S52174443
+165,Pileated Woodpecker,2,Six Mile Cypress Slough Preserve,US-FL,12 Aug 2017,L424819,S38601114
+166,Northern Flicker,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,06 Oct 2017,L6319667,S39578004
+167,Crested Caracara,1,Corkscrew Rd & SR 82,US-FL,08 Jan 2017,L6163535,S38539020
+168,American Kestrel,1,Wild Turkey Strand Preserve,US-FL,25 Oct 2017,L1903106,S40113848
+169,Merlin,1,Harns Marsh,US-FL,06 Jan 2018,L830108,S41671901
+170,Peregrine Falcon,2,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+171,Monk Parakeet,6,Pelican Blvd. Baseball Fields,US-FL,01 Nov 2017,L886942,S40248340
+172,White-winged Parakeet,1,"4801 Northwest 7th Street, Miami, Florida, US (25.78, -80.273)",US-FL,25 Feb 2018,L6984601,S43165076
+173,Yellow-chevroned Parakeet,4,"Biltmore Hotel, Coral Gables, Florida, US (25.741, -80.278)",US-FL,16 Feb 2019,L8631795,S52786790
+174,Nanday Parakeet,5,Manor Park,US-FL,05 Feb 2018,L6808817,S42518260
+175,Green Parakeet,1,"301-351 Hunting Lodge Drive, Miami Springs, Florida, US (25.819, -80.294)",US-FL,25 Feb 2018,L6988204,S43189388
+176,Crimson-fronted Parakeet,2,"6498 Northwest 38th Terrace, Virginia Gardens, Florida, US (25.81, -80.302)",US-FL,25 Feb 2018,L6987713,S43186092
+177,Mitred Parakeet,7,"576 Southwest 91 Avenue, Miami, Florida, US (25.684, -80.343)",US-FL,25 Feb 2018,L6986137,S43176100
+178,Red-masked Parakeet,1,"301-351 Hunting Lodge Drive, Miami Springs, Florida, US (25.819, -80.294)",US-FL,25 Feb 2018,L6988204,S43189388
+179,White-eyed Parakeet,1,"6498 Northwest 38th Terrace, Virginia Gardens, Florida, US (25.81, -80.302)",US-FL,25 Feb 2018,L6987713,S43186092
+180,Eastern Wood-Pewee,1,Fort De Soto Park,US-FL,25 Apr 2018,L127332,S44932073
+181,Acadian Flycatcher,1,Point Ybel Lighthouse Beach Park,US-FL,21 Apr 2019,L127398,S55210235
+182,Least Flycatcher,1,Celery Fields--South Cell,US-FL,31 Jan 2019,L1241076,S52225242
+183,Eastern Phoebe,1,J. N. Ding Darling NWR--Bailey Tract,US-FL,18 Oct 2017,L127399,S39996974
+184,Ash-throated Flycatcher,1,Lake Apopka Wildlife Drive,US-FL,25 Jan 2019,L298649,S52039495
+185,Great Crested Flycatcher,1,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+186,Tropical Kingbird,1,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+187,Western Kingbird,3,Felda Church Road,US-FL,23 Mar 2019,L4108979,S54128447
+188,Eastern Kingbird,1,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+189,Gray Kingbird,1,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+190,Scissor-tailed Flycatcher,2,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+191,White-eyed Vireo,1,Corkscrew Regional Ecosystem Watershed--Bird Rookery Swamp Trails,US-FL,02 Nov 2017,L1061691,S40260972
+192,Thick-billed Vireo,1,Crandon Park,US-FL,17 Feb 2019,L127422,S52828285
+193,Yellow-throated Vireo,1,Six Mile Cypress Slough Preserve,US-FL,26 Mar 2018,L424819,S43975623
+194,Blue-headed Vireo,1,Six Mile Cypress Slough Preserve,US-FL,09 Nov 2017,L424819,S40396799
+195,Philadelphia Vireo,1,Corkscrew Regional Ecosystem Watershed--Bird Rookery Swamp Trails,US-FL,27 Oct 2019,L1061691,S60965724
+196,Red-eyed Vireo,3,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+197,Loggerhead Shrike,1,Aircraft Observation Marsh,US-FL,02 Oct 2017,L5740111,S39513588
+198,Blue Jay,2,Harns Marsh,US-FL,19 Oct 2017,L830108,S40010621
+199,Florida Scrub-Jay,1,"2524 Northwest 15th Avenue, Cape Coral, Florida, US (26.701, -82.005)",US-FL,07 Jan 2018,L6681539,S41704420
+200,House Crow,1,Nokomis Public Beach,US-FL,20 Mar 2019,L2602995,S54037924
+201,American Crow,11,"10401 Dartington Drive, Fort Myers, Florida, US (26.556, -81.779)",US-FL,12 Aug 2017,L6175420,S38607283
+202,Fish Crow,32,Lakes Regional Park,US-FL,28 Oct 2017,L305312,S40168176
+203,Carolina Chickadee,2,"2905 North Monroe Street, Tallahassee, Florida, US (30.483, -84.306)",US-FL,02 May 2019,L9164799,S55686096
+204,Tufted Titmouse,1,Six Mile Cypress Slough Preserve,US-FL,10 Nov 2017,L424819,S40424453
+205,Northern Rough-winged Swallow,40,Stormwater Treatment Area 5/6,US-FL,13 Jan 2018,L207305,S41871319
+206,Purple Martin,10,Celery Fields,US-FL,05 Feb 2018,L234146,S42522301
+207,Tree Swallow,50,Wild Turkey Strand Preserve,US-FL,04 Nov 2017,L1903106,S40306833
+208,Bank Swallow,2,Fort De Soto Park,US-FL,25 Apr 2018,L127332,S44932073
+209,Barn Swallow,4,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+210,Cave Swallow,2,Dry Tortugas NP--Garden Key,US-FL,22 Mar 2018,L127452,S43914060
+211,Red-whiskered Bulbul,2,"8760-8780 Southwest 81st Street, Miami, Florida, US (25.694, -80.335)",US-FL,25 Feb 2018,L6985787,S43173524
+212,Ruby-crowned Kinglet,1,Hickey Creek Wildlife & Environmental Area,US-FL,08 Feb 2018,L1349962,S42590876
+213,Brown-headed Nuthatch,4,Pine Lake Preserve,US-FL,02 Jan 2018,L335686,S41549892
+214,Blue-gray Gnatcatcher,1,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+215,House Wren,1,Caloosahatchee Creeks Preserve--East,US-FL,21 Oct 2017,L674344,S40043417
+216,Sedge Wren,1,Dinner Island Ranch WMA,US-FL,26 Jan 2018,L840220,S42249347
+217,Marsh Wren,1,Wild Turkey Strand Preserve,US-FL,09 Nov 2018,L1903106,S49774669
+218,Carolina Wren,1,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+219,Common Hill Myna,1,"6840-6904 Southwest 65th Avenue, South Miami, Florida, US (25.706, -80.3)",US-FL,25 Feb 2018,L6985137,S43167830
+220,European Starling,5,Pelican Blvd. Baseball Fields,US-FL,07 Jan 2018,L886942,S41702365
+221,Common Myna,3,"720 Northwest 37th Avenue, Miami, Florida, US (25.78, -80.256)",US-FL,25 Feb 2018,L6984609,S43165115
+222,Gray Catbird,6,Wild Turkey Strand Preserve,US-FL,16 Oct 2017,L1903106,S39958717
+223,Brown Thrasher,3,Oscar Scherer SP,US-FL,05 Feb 2018,L127350,S42521196
+224,Bahama Mockingbird,1,Lantana Nature Preserve,US-FL,25 Apr 2019,L1293707,S55400945
+225,Northern Mockingbird,3,"10401 Dartington Drive, Fort Myers, Florida, US (26.556, -81.779)",US-FL,12 Aug 2017,L6175420,S38607283
+226,Eastern Bluebird,5,Babcock-Webb WMA,US-FL,19 Jan 2018,L127396,S42065694
+227,Gray-cheeked Thrush,2,Fort De Soto Park,US-FL,25 Apr 2018,L127332,S44932073
+228,Swainson's Thrush,1,Fort De Soto Park,US-FL,25 Apr 2018,L127332,S44932073
+229,Hermit Thrush,1,Babcock-Webb WMA,US-FL,19 Mar 2018,L127396,S43783871
+230,Wood Thrush,1,Point Ybel Lighthouse Beach Park,US-FL,18 Apr 2019,L127398,S55086818
+231,American Robin,8,Harns Marsh,US-FL,06 Jan 2018,L830108,S41671901
+232,Red-legged Thrush,1,Lantana Nature Preserve,US-FL,25 Apr 2019,L1293707,S55400945
+233,Cedar Waxwing,13,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,26 Jan 2018,L6724846,S42256323
+234,Scaly-breasted Munia,13,Pine Woods Park,US-FL,10 Nov 2018,L5584024,S49822958
+235,House Sparrow,1,Bowditch Point Park,US-FL,26 Oct 2017,L337347,S40129407
+236,House Finch,1,Delnor-Wiggins Pass SP,US-FL,03 Nov 2019,L833946,S61143707
+237,American Goldfinch,1,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,15 Jan 2018,L6724846,S41948244
+238,Bachman's Sparrow,1,Babcock-Webb WMA,US-FL,19 Apr 2018,L127396,S44720565
+239,Grasshopper Sparrow,2,Alva Scrub #195,US-FL,12 Mar 2018,L2921335,S43586196
+240,Chipping Sparrow,4,Oscar Scherer SP,US-FL,05 Feb 2018,L127350,S42521196
+241,Clay-colored Sparrow,1,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+242,Lark Sparrow,1,Oscar Scherer SP,US-FL,05 Feb 2018,L127350,S42521196
+243,White-crowned Sparrow,1,Celery Fields--South Cell,US-FL,31 Jan 2019,L1241076,S52225242
+244,Savannah Sparrow,1,Harns Marsh,US-FL,05 Oct 2017,L830108,S39564130
+245,Lincoln's Sparrow,2,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+246,Swamp Sparrow,3,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+247,Spotted Towhee,1,Dr. Von D. Mizell-Eula Johnson SP,US-FL,13 Apr 2019,L5744252,S54896618
+248,Eastern Towhee,2,Charlotte Harbor Buffer Preserve,US-FL,06 Feb 2018,L298435,S42539216
+249,Western Spindalis,1,Crandon Park,US-FL,21 Feb 2019,L127422,S52993125
+250,Yellow-breasted Chat,1,Lakes Regional Park,US-FL,15 Mar 2018,L305312,S43664871
+251,Yellow-headed Blackbird,3,Sem-Chi Rice Mill,US-FL,18 Mar 2018,L4478244,S43744697
+252,Bobolink,1,Point Ybel Lighthouse Beach Park,US-FL,28 Apr 2019,L127398,S55508094
+253,Eastern Meadowlark,1,"11201 Daniels Parkway, Fort Myers, Florida, US (26.548, -81.772)",US-FL,30 Oct 2017,L6427022,S40215546
+254,Orchard Oriole,2,Point Ybel Lighthouse Beach Park,US-FL,06 Apr 2018,L127398,S44293781
+255,Baltimore Oriole,1,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+256,Red-winged Blackbird,15,Wild Turkey Strand Preserve,US-FL,04 Nov 2017,L1903106,S40306833
+257,Shiny Cowbird,2,Sem-Chi Rice Mill,US-FL,10 Feb 2019,L4478244,S52550988
+258,Bronzed Cowbird,1,Celery Fields,US-FL,12 Nov 2018,L234146,S49880749
+259,Brown-headed Cowbird,6,Celery Fields,US-FL,15 Jan 2018,L234146,S41928658
+260,Common Grackle,3,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+261,Boat-tailed Grackle,1,"13260 Intrepid Lane, Fort Myers, Florida, US (26.552, -81.782)",US-FL,18 Aug 2017,L6191841,S38700023
+262,Ovenbird,1,Corkscrew Swamp Sanctuary,US-FL,18 Feb 2018,L127407,S42925746
+263,Worm-eating Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,06 Apr 2018,L127398,S44293781
+264,Louisiana Waterthrush,1,Big Cypress National Preserve--Kirby Storter Roadside Park & Boardwalk ,US-FL,24 Feb 2018,L638541,S43139973
+265,Northern Waterthrush,1,Corkscrew Swamp Sanctuary,US-FL,15 Aug 2017,L127407,S38656353
+266,Golden-winged Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,21 Apr 2019,L127398,S55210235
+267,Blue-winged Warbler,3,Fort De Soto Park,US-FL,20 Apr 2019,L127332,S55185808
+268,Black-and-white Warbler,1,"Cullum's Bonita Trail, Bonita Springs, Florida, US (26.337, -81.746)",US-FL,02 Nov 2017,L6433964,S40268334
+269,Prothonotary Warbler,3,Point Ybel Lighthouse Beach Park,US-FL,06 Apr 2018,L127398,S44293781
+270,Tennessee Warbler,3,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+271,Orange-crowned Warbler,1,Six Mile Cypress Slough Preserve,US-FL,16 Feb 2018,L424819,S42851662
+272,Kentucky Warbler,2,Point Ybel Lighthouse Beach Park,US-FL,20 Apr 2018,L127398,S44748061
+273,Common Yellowthroat,1,Harns Marsh,US-FL,05 Oct 2017,L830108,S39564130
+274,Hooded Warbler,3,Point Ybel Lighthouse Beach Park,US-FL,06 Apr 2018,L127398,S44293781
+275,American Redstart,1,"8204 Southwest 81st Place, Miami, Florida, US (25.694, -80.325)",US-FL,25 Feb 2018,L6985635,S43172497
+276,Cape May Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,20 Apr 2018,L127398,S44748061
+277,Cerulean Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,16 Apr 2019,L127398,S55016912
+278,Northern Parula,2,"13883-13927 Waterfront Drive, Bokeelia, Florida, US (26.661, -82.153)",US-FL,29 Jan 2018,L6795142,S42340315
+279,Magnolia Warbler,1,Fort De Soto Park,US-FL,25 Apr 2018,L127332,S44932073
+280,Bay-breasted Warbler,1,Fort De Soto Park,US-FL,25 Apr 2018,L127332,S44932073
+281,Blackburnian Warbler,1,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+282,Yellow Warbler,1,San Carlos Bay/Bunche Beach Preserve,US-FL,01 Oct 2017,L301036,S39492096
+283,Chestnut-sided Warbler,2,Point Ybel Lighthouse Beach Park,US-FL,21 Apr 2019,L127398,S55210235
+284,Blackpoll Warbler,3,Point Ybel Lighthouse Beach Park,US-FL,20 Apr 2018,L127398,S44748061
+285,Black-throated Blue Warbler,1,"4048 Northwest 60th Avenue, Virginia Gardens, Florida, US (25.811, -80.295)",US-FL,25 Feb 2018,L6984512,S43164531
+286,Palm Warbler,1,Harns Marsh,US-FL,05 Oct 2017,L830108,S39564130
+287,Pine Warbler,2,Caloosahatchee Creeks Preserve--East,US-FL,21 Oct 2017,L674344,S40043417
+288,Yellow-rumped Warbler,2,Fakahatchee Strand Preserve SP--Big Cypress Bend Boardwalk,US-FL,05 Nov 2017,L662393,S40328093
+289,Yellow-throated Warbler,1,Caloosahatchee Creeks Preserve--East,US-FL,21 Oct 2017,L674344,S40043417
+290,Prairie Warbler,1,"Cullum's Bonita Trail, Bonita Springs, Florida, US (26.337, -81.746)",US-FL,02 Nov 2017,L6433964,S40268334
+291,Black-throated Green Warbler,1,"Cullum's Bonita Trail, Bonita Springs, Florida, US (26.337, -81.746)",US-FL,02 Nov 2017,L6433964,S40268334
+292,Summer Tanager,12,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+293,Scarlet Tanager,19,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+294,Northern Cardinal,1,San Carlos Bay/Bunche Beach Preserve,US-FL,13 Aug 2017,L301036,S38620018
+295,Rose-breasted Grosbeak,8,Fort De Soto Park,US-FL,16 Apr 2018,L127332,S44634594
+296,Blue Grosbeak,4,Oscar Scherer SP,US-FL,05 Feb 2018,L127350,S42521196
+297,Indigo Bunting,1,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,15 Jan 2018,L6724846,S41948244
+298,Painted Bunting,4,"Pearl Feeders, Alva (Whites' Feeders)",US-FL,15 Jan 2018,L6724846,S41948244
+299,Dickcissel,2,Fort De Soto Park,US-FL,20 Apr 2019,L127332,S55185808
+300,Bananaquit,1,A. D. Barnes Park,US-FL,10 Nov 2018,L200830,S49828857

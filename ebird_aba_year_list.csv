@@ -1,0 +1,396 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Black-bellied Whistling-Duck,28,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+2,Fulvous Whistling-Duck,5,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+3,Snow Goose,1,Broad Brook Mill Pond,US-CT,17 Nov 2019,L749009,S61526397
+4,Greater White-fronted Goose,1,Broad Brook Mill Pond,US-CT,17 Nov 2019,L749009,S61526397
+5,Brant,1,Milford Pt. (CT Audubon),US-CT,13 Aug 2019,L109216,S58976836
+6,Cackling Goose,1,Broad Brook Mill Pond,US-CT,17 Nov 2019,L749009,S61526397
+7,Canada Goose,2,"1611 North Monroe Street, Tallahassee, Florida, US (30.461, -84.281)",US-FL,02 May 2019,L9165623,S55691224
+8,Mute Swan,2,Gulfstream Park Racing & Casino,US-FL,27 Mar 2019,L8548988,S54270177
+9,Trumpeter Swan,2,Chase Retention Ponds,US-OH,19 Oct 2019,L2040538,S60740182
+10,Egyptian Goose,5,Kendall-- Baptist Hospital Area,US-FL,16 Feb 2019,L251012,S52767375
+11,Muscovy Duck,1,"2805 Colonial Boulevard, Fort Myers, Florida, US (26.6, -81.855)",US-FL,17 Jan 2019,L8446392,S51773317
+12,Wood Duck,1,Six Mile Cypress Slough Preserve,US-FL,28 Jan 2019,L424819,S52130529
+13,Blue-winged Teal,22,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+14,Cinnamon Teal,1,Merritt Island NWR--Black Point Wildlife Drive,US-FL,21 Jan 2019,L127381,S51898817
+15,Northern Shoveler,2,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+16,Gadwall,1,Farmington River,US-CT,18 Jul 2019,L3168372,S58275663
+17,American Wigeon,3,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+18,Mallard,5,Chapel Hill Cemetery,US-FL,20 Jan 2019,L8393343,S51867818
+19,American Black Duck,1,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+20,Mottled Duck,17,Shell Creek Preserve/Nellis Lane,US-FL,06 Jan 2019,L8381920,S51376513
+21,Northern Pintail,8,Lake Apopka Wildlife Drive,US-FL,20 Jan 2019,L298649,S51866010
+22,Green-winged Teal,1,Merritt Island NWR--Black Point Wildlife Drive,US-FL,21 Jan 2019,L127381,S51898817
+23,Canvasback,1,Lake Apopka Wildlife Drive,US-FL,20 Jan 2019,L298649,S51866010
+24,Redhead,2,Merritt Island NWR--Black Point Wildlife Drive,US-FL,24 Jan 2019,L127381,S52008777
+25,Ring-necked Duck,7,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+26,Greater Scaup,2,Celery Fields,US-FL,19 Jan 2019,L234146,S51831578
+27,Lesser Scaup,11,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+28,King Eider,1,Waterford Beach,US-CT,11 Jun 2019,L5604368,S57297239
+29,Common Eider,13,ABF Pelagic 2019--Segment II,US-ME,01 Jun 2019,L9390700,S57113626
+30,Surf Scoter,3,San Carlos Bay/Bunche Beach Preserve,US-FL,28 Jan 2019,L301036,S52136236
+31,Black Scoter,25,San Carlos Bay/Bunche Beach Preserve,US-FL,04 Jan 2019,L301036,S51294080
+32,Long-tailed Duck,1,Shiloh Marsh,US-FL,25 Jan 2019,L8491061,S52039513
+33,Bufflehead,6,Shiloh Marsh,US-FL,25 Jan 2019,L8491061,S52039513
+34,Common Goldeneye,1,Chapel Hill Cemetery,US-FL,20 Jan 2019,L8393343,S51867818
+35,Hooded Merganser,6,Celery Fields,US-FL,10 Jan 2019,L234146,S51520729
+36,Common Merganser,1,Hartford Reservoir No. 6,US-CT,07 May 2019,L607644,S55964843
+37,Red-breasted Merganser,3,"5896 Cove Street, Saint James City, Florida, US (26.547, -82.081)",US-FL,17 Jan 2019,L8445085,S51766016
+38,Ruddy Duck,2,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+39,Plain Chachalaca,7,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+40,Northern Bobwhite,3,Shell Creek Preserve/Nellis Lane,US-FL,06 Jan 2019,L8381920,S51376513
+41,Indian Peafowl,2,"6632 Southwest 64th Court, South Miami, Florida, US (25.709, -80.299)",US-FL,16 Feb 2019,L8626348,S52773136
+42,Spruce Grouse,2,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+43,Wild Turkey,8,"3172–3192 Thornhill Rd, Winter Haven US-FL (28.0009,-81.8127)",US-FL,25 Jan 2019,L8493220,S52037541
+44,American Flamingo,1,St. Marks NWR--Stoney Bayou 2,US-FL,02 May 2019,L582780,S55680487
+45,Least Grebe,1,Peaceful Waters Sanctuary,US-FL,13 Apr 2019,L1017638,S54902974
+46,Pied-billed Grebe,2,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+47,Horned Grebe,3,"13821 Waterfront Drive, Bokeelia, Florida, US (26.661, -82.153)",US-FL,17 Jan 2019,L8444787,S51764514
+48,Red-necked Grebe,1,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+49,Rock Pigeon,1,SW 40th St.,US-FL,08 Jan 2019,L8393404,S51468236
+50,Red-billed Pigeon,6,Max A Mandel Golf Course,US-TX,09 Oct 2019,L3715748,S60479819
+51,Eurasian Collared-Dove,1,"27590 Bermont Road, Punta Gorda, Florida, US (26.948, -81.999)",US-FL,06 Jan 2019,L8380135,S51378456
+52,Inca Dove,2,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+53,Common Ground Dove,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+54,Key West Quail-Dove,1,Dr. Von D. Mizell-Eula Johnson SP,US-FL,22 Apr 2019,L5744252,S55259950
+55,White-tipped Dove,1,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+56,White-winged Dove,1,"21281 Pearl Street, Alva, Florida, US (26.715, -81.611)",US-FL,29 Jan 2019,L8521054,S52171665
+57,Mourning Dove,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,01 Jan 2019,L6319667,S51144916
+58,Smooth-billed Ani,1,Harney Pond Canal Recreation Area,US-FL,24 Feb 2019,L127374,S53091034
+59,Groove-billed Ani,1,Winding Waters Natural area,US-FL,04 Feb 2019,L2726529,S52369547
+60,Greater Roadrunner,1,Salineno--Dump Road,US-TX,08 Oct 2019,L3328096,S60455512
+61,Dark-billed Cuckoo,1,West Delray Regional Park,US-FL,10 Feb 2019,L1427512,S52548955
+62,Yellow-billed Cuckoo,1,Point Ybel Lighthouse Beach Park,US-FL,16 Apr 2019,L127398,S55016912
+63,Mangrove Cuckoo,1,Point Ybel Lighthouse Beach Park,US-FL,11 Apr 2019,L127398,S54823689
+64,Black-billed Cuckoo,1,Hop Meadow Country Club,US-CT,23 May 2019,L5223240,S56655526
+65,Common Nighthawk,1,Point Ybel Lighthouse Beach Park,US-FL,11 Apr 2019,L127398,S54823689
+66,Common Pauraque,1,Estero Llano Grande SP WBC (LTC 054),US-TX,07 Oct 2019,L259855,S60426434
+67,Chuck-will's-widow,2,Babcock-Webb WMA,US-FL,09 Apr 2019,L127396,S54739123
+68,Chimney Swift,1,Six Mile Cypress Slough Preserve,US-FL,08 Apr 2019,L424819,S54726787
+69,Ruby-throated Hummingbird,1,Corkscrew Swamp Sanctuary,US-FL,02 Feb 2019,L127407,S52295516
+70,Buff-bellied Hummingbird,3,Frontera Audubon Center (LTC 058),US-TX,06 Oct 2019,L209876,S60404778
+71,King Rail,1,Corkscrew Regional Ecosystem Watershed--Bird Rookery Swamp Trails,US-FL,27 Oct 2019,L1061691,S60965724
+72,Clapper Rail,6,Shiloh Marsh,US-FL,25 Jan 2019,L8491061,S52039513
+73,Virginia Rail,4,White Memorial Foundation--Little Pond,US-CT,05 Jun 2019,L598873,S57102352
+74,Sora,1,Merritt Island NWR--Black Point Wildlife Drive,US-FL,21 Jan 2019,L127381,S51898817
+75,Common Gallinule,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+76,American Coot,2,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,08 Jan 2019,L6319667,S51466618
+77,Purple Gallinule,10,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+78,Gray-headed Swamphen,45,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+79,Yellow Rail,1,"100 Coulter Street, Old Saybrook, Connecticut, US (41.297, -72.367)",US-CT,22 May 2019,L9324685,S56641351
+80,Limpkin,1,Estero Bay Preserve SP--Winkler Point,US-FL,04 Jan 2019,L2589166,S51291796
+81,Sandhill Crane,2,Shell Creek Preserve/Nellis Lane,US-FL,06 Jan 2019,L8381920,S51376513
+82,Whooping Crane,2,"813 Lake Altur Road, Lake Wales, Florida, US (27.884, -81.645)",US-FL,24 Feb 2019,L8693685,S53099831
+83,Black-necked Stilt,12,Myakka River SP,US-FL,31 Jan 2019,L299291,S52226575
+84,American Avocet,29,Merritt Island NWR--Black Point Wildlife Drive,US-FL,21 Jan 2019,L127381,S51898817
+85,American Oystercatcher,5,"8015 Main Street, Bokeelia, Florida, US (26.705, -82.158)",US-FL,17 Jan 2019,L8444610,S51763842
+86,Black-bellied Plover,20,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+87,American Golden-Plover,1,Milford Pt. (CT Audubon),US-CT,15 Sep 2019,L109216,S59823001
+88,Snowy Plover,1,Gulfside City Park Beach,US-FL,11 Feb 2019,L3146221,S52605892
+89,Wilson's Plover,1,Charlotte Harbor Buffer Preserve,US-FL,18 Feb 2019,L298435,S52870923
+90,Semipalmated Plover,50,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+91,Piping Plover,2,San Carlos Bay/Bunche Beach Preserve,US-FL,01 Feb 2019,L301036,S52261723
+92,Killdeer,3,Estero Bay Preserve SP--Winkler Point,US-FL,04 Jan 2019,L2589166,S51291796
+93,Upland Sandpiper,4,"Schoodic Road, Columbia, Maine, US (44.67, -67.83)",US-ME,31 May 2019,L9381903,S56993502
+94,Whimbrel,2,Harkness Memorial SP,US-CT,17 Aug 2019,L297947,S59054813
+95,Marbled Godwit,10,Charlotte Harbor Buffer Preserve,US-FL,18 Feb 2019,L298435,S52870923
+96,Ruddy Turnstone,14,"8015 Main Street, Bokeelia, Florida, US (26.705, -82.158)",US-FL,17 Jan 2019,L8444610,S51763842
+97,Red Knot,23,San Carlos Bay/Bunche Beach Preserve,US-FL,28 Jan 2019,L301036,S52136236
+98,Stilt Sandpiper,50,Estero Llano Grande SP WBC (LTC 054),US-TX,07 Oct 2019,L259855,S60426434
+99,Sanderling,20,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+100,Dunlin,50,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+101,Baird's Sandpiper,1,Sandy Point,US-CT,25 Sep 2019,L109233,S60102184
+102,Least Sandpiper,60,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+103,Buff-breasted Sandpiper,1,Hammonasset Beach SP--West End,US-CT,28 Aug 2019,L109205,S59328311
+104,Pectoral Sandpiper,6,Hammonasset Beach SP,US-CT,29 Aug 2019,L298379,S59355763
+105,Semipalmated Sandpiper,150,Milford Pt. (CT Audubon),US-CT,21 Jul 2019,L109216,S58348899
+106,Western Sandpiper,10,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+107,Short-billed Dowitcher,14,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+108,Long-billed Dowitcher,3,Merritt Island NWR--Black Point Wildlife Drive,US-FL,24 Jan 2019,L127381,S52008777
+109,American Woodcock,1,Frances Slocum SP,US-PA,25 May 2019,L443823,S56716993
+110,Wilson's Snipe,4,Estero Bay Preserve SP--Winkler Point,US-FL,04 Jan 2019,L2589166,S51291796
+111,Wilson's Phalarope,1,Hammonasset Beach SP--West End,US-CT,23 May 2019,L109205,S56658550
+112,Red-necked Phalarope,1,BBC Pelagic 21 Sep 2019 - leg B,US-MA,21 Sep 2019,L9947908,S60066352
+113,Red Phalarope,1,BBC Pelagic 22 Sep 2019 - leg I,US-MA,22 Sep 2019,L9950592,S60066280
+114,Spotted Sandpiper,1,"13821 Waterfront Drive, Bokeelia, Florida, US (26.661, -82.153)",US-FL,17 Jan 2019,L8444787,S51764514
+115,Solitary Sandpiper,1,Peaceful Waters Sanctuary,US-FL,13 Apr 2019,L1017638,S54902974
+116,Greater Yellowlegs,7,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+117,Willet,7,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+118,Lesser Yellowlegs,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+119,South Polar Skua,1,"(40.8959,-69.5293) - J",US-MA,22 Sep 2019,L9947957,S60066273
+120,Pomarine Jaeger,3,"(40.4151,-69.2704) - F",US-MA,21 Sep 2019,L9947913,S60066340
+121,Long-tailed Jaeger,1,BBC Pelagic 22 Sep 2019 - leg E,US-MA,22 Sep 2019,L9950577,S60195284
+122,Common Murre,2,Petit Manan NWR--Petit Manan Island,US-ME,01 Jun 2019,L234625,S57113631
+123,Razorbill,20,Petit Manan NWR--Petit Manan Island,US-ME,01 Jun 2019,L234625,S57113631
+124,Black Guillemot,1,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+125,Atlantic Puffin,110,Petit Manan NWR--Petit Manan Island,US-ME,01 Jun 2019,L234625,S57113631
+126,Sabine's Gull,1,BBC Pelagic 21 Sep 2019 - leg A,US-MA,21 Sep 2019,L9953429,S60066360
+127,Bonaparte's Gull,1,Nokomis Public Beach,US-FL,20 Mar 2019,L2602995,S54039594
+128,Black-headed Gull,1,Short Beach Park,US-CT,10 Sep 2019,L249800,S59659287
+129,Laughing Gull,1,Estero Bay Preserve SP--Winkler Point,US-FL,04 Jan 2019,L2589166,S51291796
+130,Ring-billed Gull,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+131,Herring Gull,5,Parrish Park,US-FL,24 Jan 2019,L814410,S51992496
+132,Lesser Black-backed Gull,1,"5896 Cove Street, Saint James City, Florida, US (26.547, -82.081)",US-FL,17 Jan 2019,L8445085,S51766016
+133,Great Black-backed Gull,3,Parrish Park,US-FL,24 Jan 2019,L814410,S51992496
+134,Least Tern,2,Point Ybel Lighthouse Beach Park,US-FL,28 Apr 2019,L127398,S55508094
+135,Gull-billed Tern,1,Orlando Wetlands Park,US-FL,22 Jan 2019,L452007,S51929757
+136,Caspian Tern,7,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+137,Black Tern,8,Messalonskee Lake--boat ramp,US-ME,30 May 2019,L332603,S56904012
+138,Roseate Tern,3,Sandy Point,US-CT,19 Aug 2019,L109233,S59102526
+139,Common Tern,2,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+140,Arctic Tern,1,ABF Pelagic 2019--Segment II,US-ME,01 Jun 2019,L9390700,S57113626
+141,Forster's Tern,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+142,Royal Tern,8,Causeway Islands Park,US-FL,04 Jan 2019,L1300380,S51294581
+143,Sandwich Tern,20,Gulfside City Park Beach,US-FL,11 Feb 2019,L3146221,S52605892
+144,Black Skimmer,60,"8015 Main Street, Bokeelia, Florida, US (26.705, -82.158)",US-FL,17 Jan 2019,L8444610,S51763842
+145,Common Loon,1,"13821 Waterfront Drive, Bokeelia, Florida, US (26.661, -82.153)",US-FL,17 Jan 2019,L8444787,S51764514
+146,Wilson's Storm-Petrel,2,"(40.9443,-69.7112) - D",US-MA,21 Sep 2019,L9947910,S60066347
+147,White-faced Storm-Petrel,1,BBC Pelagic 22 Sep 2019 - leg G,US-MA,22 Sep 2019,L9950589,S60066291
+148,Leach's Storm-Petrel,1,BBC Pelagic 21 Sep 2019 - leg G,US-MA,21 Sep 2019,L9950529,S60066336
+149,Northern Fulmar,1,BBC Pelagic 21 Sep 2019 - leg A,US-MA,21 Sep 2019,L9953429,S60066360
+150,Bermuda Petrel,1,BBC Pelagic 21 Sep 2019 - leg K,US-MA,21 Sep 2019,L9950553,S60066325
+151,Black-capped Petrel,1,"(40.1345,-69.0466) - H",US-MA,21 Sep 2019,L9947914,S60066332
+152,Cory's Shearwater,2,BBC Pelagic 21 Sep 2019 - leg C,US-MA,21 Sep 2019,L9950523,S60066349
+153,Great Shearwater,6,BBC Pelagic 21 Sep 2019 - leg C,US-MA,21 Sep 2019,L9950523,S60066349
+154,Sooty Shearwater,3,"(40.8959,-69.5293) - J",US-MA,22 Sep 2019,L9947957,S60066273
+155,Audubon's Shearwater,3,BBC Pelagic 21 Sep 2019 - leg G,US-MA,21 Sep 2019,L9950529,S60066336
+156,Wood Stork,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+157,Magnificent Frigatebird,3,Causeway Islands Park,US-FL,04 Jan 2019,L1300380,S51294581
+158,Brown Booby,1,BBC Pelagic 21 Sep 2019 - leg I,US-MA,21 Sep 2019,L9950533,S60066331
+159,Northern Gannet,9,Petit Manan NWR--Petit Manan Island,US-ME,01 Jun 2019,L234625,S57113631
+160,Anhinga,3,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+161,Neotropic Cormorant,1,Wakodahatchee Wetlands,US-FL,14 Feb 2019,L143084,S52683691
+162,Double-crested Cormorant,3,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+163,American White Pelican,12,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+164,Brown Pelican,8,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+165,American Bittern,1,Orlando Wetlands Park,US-FL,22 Jan 2019,L452007,S51929757
+166,Least Bittern,1,Lakes Regional Park,US-FL,19 Mar 2019,L305312,S54007001
+167,Great Blue Heron,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+168,Great Egret,5,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+169,Snowy Egret,1,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+170,Little Blue Heron,3,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+171,Tricolored Heron,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+172,Reddish Egret,1,"4411 Sunshine Boulevard, Saint James City, Florida, US (26.533, -82.099)",US-FL,17 Jan 2019,L8445866,S51770447
+173,Cattle Egret,1,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+174,Green Heron,1,J. N. Ding Darling NWR--Bailey Tract,US-FL,04 Jan 2019,L127399,S51297556
+175,Black-crowned Night-Heron,3,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+176,Yellow-crowned Night-Heron,1,St. Marks NWR--Stoney Bayou 2,US-FL,09 Feb 2019,L582780,S52519677
+177,White Ibis,4,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+178,Glossy Ibis,12,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+179,White-faced Ibis,1,Lake Apopka Wildlife Drive,US-FL,20 Jan 2019,L298649,S51866010
+180,Roseate Spoonbill,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+181,Black Vulture,2,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+182,Turkey Vulture,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+183,Osprey,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+184,Swallow-tailed Kite,1,Babcock-Webb WMA,US-FL,12 Feb 2019,L127396,S52627671
+185,Snail Kite,3,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+186,Mississippi Kite,2,Nike Recreation Fields,US-CT,03 Jun 2019,L10105900,S61120528
+187,Northern Harrier,2,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+188,Sharp-shinned Hawk,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,14 Apr 2019,L6319667,S54935983
+189,Cooper's Hawk,1,Hickory Swamp Preserve,US-FL,30 Jan 2019,L346219,S52198686
+190,Bald Eagle,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+191,Harris's Hawk,3,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+192,White-tailed Hawk,2,Old Port Isabel Rd,US-TX,10 Oct 2019,L389757,S60505375
+193,Gray Hawk,1,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+194,Red-shouldered Hawk,3,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+195,Broad-winged Hawk,1,Pine Woods Park,US-FL,27 Mar 2019,L5584024,S54272002
+196,Short-tailed Hawk,1,Corkscrew Regional Ecosystem Watershed--Bird Rookery Swamp Trails,US-FL,02 Nov 2019,L1061691,S61115454
+197,Zone-tailed Hawk,1,Zapata Library / City Park (LTC 085),US-TX,08 Oct 2019,L846015,S60463521
+198,Red-tailed Hawk,1,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+199,Barn Owl,1,"4411 Sunshine Boulevard, Saint James City, Florida, US (26.533, -82.099)",US-FL,17 Jan 2019,L8445866,S51770447
+200,Eastern Screech-Owl,1,Point Ybel Lighthouse Beach Park,US-FL,30 Mar 2019,L127398,S54363185
+201,Great Horned Owl,1,Estero Bay Preserve SP--Winkler Point,US-FL,04 Jan 2019,L2589166,S51291796
+202,Burrowing Owl,2,"4916 Southwest 3rd Avenue, Cape Coral, Florida, US (26.56, -81.981)",US-FL,08 Jan 2019,L8392022,S51459277
+203,Barred Owl,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,01 Jan 2019,L6319667,S51144916
+204,Belted Kingfisher,3,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+205,Green Kingfisher,2,Estero Llano Grande SP WBC (LTC 054),US-TX,07 Oct 2019,L259855,S60426434
+206,Yellow-bellied Sapsucker,3,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+207,Red-headed Woodpecker,5,Six Mile Cypress Preserve North,US-FL,15 Jan 2019,L6318501,S51702688
+208,Golden-fronted Woodpecker,8,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+209,Red-bellied Woodpecker,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+210,Downy Woodpecker,2,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+211,Ladder-backed Woodpecker,2,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+212,Red-cockaded Woodpecker,4,Babcock-Webb WMA,US-FL,29 Jan 2019,L127396,S52174443
+213,Hairy Woodpecker,1,Babcock-Webb WMA,US-FL,29 Jan 2019,L127396,S52174443
+214,Pileated Woodpecker,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,02 Jan 2019,L6319667,S51220503
+215,Northern Flicker,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+216,Crested Caracara,2,Felda Church Road,US-FL,06 Jan 2019,L4108979,S51395973
+217,American Kestrel,3,Felda Church Road,US-FL,06 Jan 2019,L4108979,S51395973
+218,Merlin,1,Estero Bay Preserve SP--Winkler Point,US-FL,04 Jan 2019,L2589166,S51291796
+219,Aplomado Falcon,1,Cameron Co.--TX100--Aplomado Viewing Area,US-TX,10 Oct 2019,L3322724,S60510846
+220,Peregrine Falcon,1,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+221,Monk Parakeet,3,"4916 Southwest 3rd Avenue, Cape Coral, Florida, US (26.56, -81.981)",US-FL,08 Jan 2019,L8392022,S51459277
+222,Yellow-chevroned Parakeet,4,"Biltmore Hotel, Coral Gables, Florida, US (25.741, -80.278)",US-FL,16 Feb 2019,L8631795,S52786790
+223,Red-crowned Parrot,120,Brownsville--Oliveira Park,US-TX,10 Oct 2019,L1918641,S60515219
+224,Red-lored Parrot,10,Brownsville--Oliveira Park,US-TX,10 Oct 2019,L1918641,S60515219
+225,White-fronted Parrot,20,Brownsville--Oliveira Park,US-TX,10 Oct 2019,L1918641,S60515219
+226,Nanday Parakeet,28,Celery Fields,US-FL,10 Jan 2019,L234146,S51520729
+227,Mitred Parakeet,3,"Biltmore Hotel, Coral Gables, Florida, US (25.741, -80.278)",US-FL,16 Feb 2019,L8631795,S52786790
+228,Red-masked Parakeet,11,"Biltmore Hotel, Coral Gables, Florida, US (25.741, -80.278)",US-FL,16 Feb 2019,L8631795,S52786790
+229,Northern Beardless-Tyrannulet,1,Frontera Audubon Center (LTC 058),US-TX,06 Oct 2019,L209876,S60404778
+230,Eastern Wood-Pewee,2,Point Ybel Lighthouse Beach Park,US-FL,21 Apr 2019,L127398,S55210235
+231,Yellow-bellied Flycatcher,1,Frances Slocum SP,US-PA,25 May 2019,L443823,S56716993
+232,Acadian Flycatcher,1,Point Ybel Lighthouse Beach Park,US-FL,21 Apr 2019,L127398,S55210235
+233,Alder Flycatcher,1,Frances Slocum SP,US-PA,25 May 2019,L443823,S56716993
+234,Willow Flycatcher,1,Frances Slocum SP,US-PA,25 May 2019,L443823,S56716993
+235,Least Flycatcher,1,Celery Fields--South Cell,US-FL,31 Jan 2019,L1241076,S52225242
+236,Black Phoebe,2,Max A Mandel Golf Course,US-TX,09 Oct 2019,L3715748,S60479819
+237,Eastern Phoebe,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+238,Vermilion Flycatcher,1,Estero Llano Grande SP WBC (LTC 054),US-TX,07 Oct 2019,L259855,S60426434
+239,Ash-throated Flycatcher,1,Lake Apopka Wildlife Drive,US-FL,25 Jan 2019,L298649,S52039495
+240,Great Crested Flycatcher,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,13 Jan 2019,L6319667,S51625556
+241,Great Kiskadee,7,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+242,Tropical Kingbird,1,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+243,Couch's Kingbird,7,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+244,Western Kingbird,3,Felda Church Road,US-FL,23 Mar 2019,L4108979,S54128447
+245,Eastern Kingbird,1,Pinecraft Park,US-FL,09 Apr 2019,L1877656,S54754035
+246,Scissor-tailed Flycatcher,1,"Keri Road, LaBelle, Florida, US (26.596, -81.436)",US-FL,07 Jan 2019,L8388173,S51431865
+247,White-eyed Vireo,2,Shell Creek Preserve/Nellis Lane,US-FL,06 Jan 2019,L8381920,S51376513
+248,Thick-billed Vireo,1,Crandon Park,US-FL,17 Feb 2019,L127422,S52828285
+249,Yellow-throated Vireo,1,A. D. Barnes Park,US-FL,02 Mar 2019,L200830,S53284793
+250,Blue-headed Vireo,1,Celery Fields,US-FL,10 Jan 2019,L234146,S51520729
+251,Philadelphia Vireo,1,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+252,Warbling Vireo,1,"Chambersburg, PA",US-PA,04 May 2019,L9186475,S55795466
+253,Red-eyed Vireo,1,Pinecraft Park,US-FL,09 Apr 2019,L1877656,S54754035
+254,Loggerhead Shrike,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+255,Green Jay,13,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+256,Blue Jay,3,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,02 Jan 2019,L6319667,S51220503
+257,Florida Scrub-Jay,2,"1305 Northwest 25th Terrace, Cape Coral, Florida, US (26.7, -82.002)",US-FL,08 Jan 2019,L8393430,S51468350
+258,House Crow,1,Nokomis Public Beach,US-FL,20 Mar 2019,L2602995,S54037924
+259,American Crow,2,Shell Creek Preserve/Nellis Lane,US-FL,06 Jan 2019,L8381920,S51376513
+260,Fish Crow,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+261,Chihuahuan Raven,28,Laredo Landfill,US-TX,09 Oct 2019,L1926120,S60481321
+262,Common Raven,1,Frances Slocum SP,US-PA,26 May 2019,L443823,S56753144
+263,Carolina Chickadee,2,"2905 North Monroe Street, Tallahassee, Florida, US (30.483, -84.306)",US-FL,02 May 2019,L9164799,S55686096
+264,Black-capped Chickadee,1,Westmoor Park,US-CT,06 May 2019,L198655,S55901713
+265,Tufted Titmouse,8,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+266,Black-crested Titmouse,3,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+267,Verdin,1,Salineño Wildlife Preserve (LTC 080),US-TX,08 Oct 2019,L129075,S60453102
+268,Horned Lark,1,Sandy Point,US-CT,25 Sep 2019,L109233,S60102184
+269,Northern Rough-winged Swallow,12,Stormwater Treatment Area 5/6,US-FL,12 Jan 2019,L207305,S51593860
+270,Purple Martin,1,Celery Fields,US-FL,10 Jan 2019,L234146,S51520729
+271,Tree Swallow,100,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+272,Bank Swallow,1,Hartford Reservoir No. 6,US-CT,07 May 2019,L607644,S55964843
+273,Barn Swallow,4,Sanibel Island Beach,US-FL,22 Mar 2019,L815337,S54101590
+274,Cliff Swallow,5,Hartford Reservoir No. 6,US-CT,07 May 2019,L607644,S55964843
+275,Red-whiskered Bulbul,1,Pine Woods Park,US-FL,16 Feb 2019,L5584024,S52765374
+276,Golden-crowned Kinglet,1,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+277,Ruby-crowned Kinglet,4,Orlando Wetlands Park,US-FL,22 Jan 2019,L452007,S51929757
+278,Red-breasted Nuthatch,1,White Memorial Foundation--Little Pond,US-CT,05 Jun 2019,L598873,S57102352
+279,White-breasted Nuthatch,4,Hartford Reservoir No. 6,US-CT,07 May 2019,L607644,S55964843
+280,Brown-headed Nuthatch,1,Babcock-Webb WMA,US-FL,29 Jan 2019,L127396,S52174443
+281,Brown Creeper,1,White Memorial Foundation--Little Pond,US-CT,05 Jun 2019,L598873,S57102352
+282,Blue-gray Gnatcatcher,3,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+283,House Wren,1,Celery Fields,US-FL,10 Jan 2019,L234146,S51520729
+284,Winter Wren,3,Saddleback Mountain,US-ME,30 May 2019,L608589,S56897290
+285,Sedge Wren,1,"Saint Johns National Wildlife Refuge, Mims US-FL (28.5511,-80.8943)",US-FL,24 Jan 2019,L8488413,S52008614
+286,Marsh Wren,3,Shiloh Marsh,US-FL,25 Jan 2019,L8491061,S52039513
+287,Carolina Wren,1,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+288,Bewick's Wren,1,Salineño Wildlife Preserve (LTC 080),US-TX,08 Oct 2019,L129075,S60453102
+289,European Starling,5,"1305 Northwest 25th Terrace, Cape Coral, Florida, US (26.7, -82.002)",US-FL,08 Jan 2019,L8393430,S51468350
+290,Common Myna,2,"720 Northwest 37th Avenue, Miami, Florida, US (25.78, -80.256)",US-FL,16 Feb 2019,L8628181,S52779825
+291,Gray Catbird,9,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+292,Curve-billed Thrasher,1,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+293,Brown Thrasher,1,"The Plantation (Restricted Access), Fort Myers, FL",US-FL,06 Feb 2019,L6319667,S52430005
+294,Long-billed Thrasher,2,Estero Llano Grande SP WBC (LTC 054),US-TX,07 Oct 2019,L259855,S60426434
+295,Bahama Mockingbird,1,Lantana Nature Preserve,US-FL,25 Apr 2019,L1293707,S55400945
+296,Northern Mockingbird,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+297,Eastern Bluebird,1,"Fort Myers, Florida, US (26.554, -81.889)",US-FL,02 Jan 2019,L8352777,S51229840
+298,Veery,5,Frances Slocum SP,US-PA,25 May 2019,L443823,S56716993
+299,Gray-cheeked Thrush,1,Point Ybel Lighthouse Beach Park,US-FL,28 Apr 2019,L127398,S55508094
+300,Bicknell's Thrush,1,Saddleback Mountain,US-ME,30 May 2019,L608589,S56897290
+301,Swainson's Thrush,1,Point Ybel Lighthouse Beach Park,US-FL,18 Apr 2019,L127398,S55086818
+302,Hermit Thrush,1,Caloosahatchee Creeks Preserve--East,US-FL,12 Feb 2019,L674344,S52621165
+303,Wood Thrush,1,Point Ybel Lighthouse Beach Park,US-FL,18 Apr 2019,L127398,S55086818
+304,Clay-colored Thrush,9,Frontera Audubon Center (LTC 058),US-TX,06 Oct 2019,L209876,S60404778
+305,American Robin,10,Shell Creek Preserve/Nellis Lane,US-FL,06 Jan 2019,L8381920,S51376513
+306,Red-legged Thrush,1,Lantana Nature Preserve,US-FL,25 Apr 2019,L1293707,S55400945
+307,Cedar Waxwing,12,Hickory Swamp Preserve,US-FL,30 Jan 2019,L346219,S52198686
+308,Scaly-breasted Munia,9,Pine Woods Park,US-FL,17 Feb 2019,L5584024,S52810340
+309,House Sparrow,2,Sem-Chi Rice Mill,US-FL,12 Jan 2019,L4478244,S51610504
+310,American Pipit,2,Sandy Point,US-CT,25 Sep 2019,L109233,S60102184
+311,House Finch,1,"111 Chase Street, Pennsylvania, US (41.324, -75.802)",US-PA,26 May 2019,L9350270,S56775184
+312,Purple Finch,1,Vinalhaven--Lane's Island Preserve (TNC),US-ME,23 Jul 2019,L780746,S58396967
+313,Red Crossbill,9,Petit Manan NWR--Hollingsworth Trail,US-ME,31 May 2019,L2911963,S56992041
+314,Lesser Goldfinch,2,Frontera Audubon Center (LTC 058),US-TX,06 Oct 2019,L209876,S60404778
+315,American Goldfinch,5,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+316,Bachman's Sparrow,2,Babcock-Webb WMA,US-FL,24 Feb 2019,L127396,S53085538
+317,Grasshopper Sparrow,3,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+318,Olive Sparrow,1,Santa Ana NWR (LTC 059),US-TX,07 Oct 2019,L129085,S60432282
+319,Chipping Sparrow,1,Shell Creek Preserve/Nellis Lane,US-FL,06 Jan 2019,L8381920,S51376513
+320,Clay-colored Sparrow,1,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+321,Field Sparrow,1,Auerfarm State Park Scenic Reserve,US-CT,09 Jun 2019,L6530973,S57220352
+322,Black-throated Sparrow,2,Salineno--Dump Road,US-TX,08 Oct 2019,L3328096,S60455512
+323,Lark Sparrow,1,Lighthouse Point Park,US-CT,10 Sep 2019,L109209,S59661181
+324,American Tree Sparrow,3,Bantam Lake--Point Folly,US-CT,16 Nov 2019,L230744,S61487238
+325,Dark-eyed Junco,14,Saddleback Mountain,US-ME,30 May 2019,L608589,S56897290
+326,White-crowned Sparrow,1,Celery Fields--South Cell,US-FL,31 Jan 2019,L1241076,S52225242
+327,White-throated Sparrow,1,Westmoor Park,US-CT,06 May 2019,L198655,S55901713
+328,Seaside Sparrow,5,Hammonasset Beach SP--Nature Area Platform,US-CT,10 Jun 2019,L2508684,S57261085
+329,Nelson's Sparrow,1,"112 Kansas Road, Milbridge, Maine, US (44.558, -67.894)",US-ME,31 May 2019,L9380975,S56935914
+330,Saltmarsh Sparrow,1,Circle Beach Boat Ramp Road,US-CT,10 Jun 2019,L2189839,S57252825
+331,Savannah Sparrow,38,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+332,Song Sparrow,3,"111 Chase Street, Pennsylvania, US (41.324, -75.802)",US-PA,04 May 2019,L9185621,S55791516
+333,Lincoln's Sparrow,2,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+334,Swamp Sparrow,3,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+335,Spotted Towhee,1,Dr. Von D. Mizell-Eula Johnson SP,US-FL,13 Apr 2019,L5744252,S54896618
+336,Eastern Towhee,1,Pine Island Flatwoods Preserve,US-FL,17 Jan 2019,L337345,S51766027
+337,Western Spindalis,1,Crandon Park,US-FL,21 Feb 2019,L127422,S52993125
+338,Yellow-breasted Chat,1,Kellogg Center,US-CT,28 Sep 2019,L161187,S60172067
+339,Yellow-headed Blackbird,1,"27650 Bermont Road, Punta Gorda, Florida, US (26.948, -81.999)",US-FL,11 Jan 2019,L8409051,S51562833
+340,Bobolink,1,Point Ybel Lighthouse Beach Park,US-FL,28 Apr 2019,L127398,S55508094
+341,Eastern Meadowlark,2,Felda Church Road,US-FL,06 Jan 2019,L4108979,S51395973
+342,Orchard Oriole,3,"455 Periwinkle Way, Sanibel, Florida, US (26.45, -82.026)",US-FL,11 Apr 2019,L9020577,S54824741
+343,Altamira Oriole,1,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+344,Audubon's Oriole,3,Salineño Wildlife Preserve (LTC 080),US-TX,08 Oct 2019,L129075,S60453102
+345,Baltimore Oriole,4,Fort De Soto Park,US-FL,20 Apr 2019,L127332,S55185808
+346,Red-winged Blackbird,6,Shell Creek Preserve/Nellis Lane,US-FL,06 Jan 2019,L8381920,S51376513
+347,Shiny Cowbird,2,Sem-Chi Rice Mill,US-FL,10 Feb 2019,L4478244,S52550988
+348,Bronzed Cowbird,7,Celery Fields,US-FL,10 Jan 2019,L234146,S51520729
+349,Brown-headed Cowbird,5,Dinner Island Ranch WMA,US-FL,07 Jan 2019,L840220,S51444192
+350,Common Grackle,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+351,Boat-tailed Grackle,2,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+352,Great-tailed Grackle,80,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,06 Oct 2019,L128890,S60397298
+353,Ovenbird,2,Pinecraft Park,US-FL,09 Apr 2019,L1877656,S54754035
+354,Worm-eating Warbler,2,Pinecraft Park,US-FL,09 Apr 2019,L1877656,S54754035
+355,Louisiana Waterthrush,1,Westmoor Park,US-CT,06 May 2019,L198655,S55901713
+356,Northern Waterthrush,2,Lantana Nature Preserve,US-FL,25 Apr 2019,L1293707,S55400945
+357,Golden-winged Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,21 Apr 2019,L127398,S55210235
+358,Blue-winged Warbler,3,Fort De Soto Park,US-FL,20 Apr 2019,L127332,S55185808
+359,Black-and-white Warbler,3,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+360,Prothonotary Warbler,3,Fort De Soto Park,US-FL,09 Apr 2019,L127332,S54746271
+361,Tennessee Warbler,3,Point Ybel Lighthouse Beach Park,US-FL,16 Apr 2019,L127398,S55016912
+362,Orange-crowned Warbler,1,Six Mile Cypress Preserve North,US-FL,15 Jan 2019,L6318501,S51702688
+363,Nashville Warbler,1,Westmoor Park,US-CT,06 May 2019,L198655,S55901713
+364,Mourning Warbler,1,Quinta Mazatlan WBC (LTC 063),US-TX,10 Oct 2019,L249887,S60502141
+365,Kentucky Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,16 Apr 2019,L127398,S55016912
+366,Common Yellowthroat,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+367,Hooded Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,02 Apr 2019,L127398,S54479369
+368,American Redstart,1,Wakodahatchee Wetlands,US-FL,14 Feb 2019,L143084,S52683691
+369,Cape May Warbler,2,Fort De Soto Park,US-FL,20 Apr 2019,L127332,S55185808
+370,Cerulean Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,16 Apr 2019,L127398,S55016912
+371,Northern Parula,1,"13821 Waterfront Drive, Bokeelia, Florida, US (26.661, -82.153)",US-FL,17 Jan 2019,L8444787,S51764514
+372,Magnolia Warbler,1,Pinecraft Park,US-FL,09 Apr 2019,L1877656,S54754035
+373,Bay-breasted Warbler,2,Colby College campus,US-ME,29 May 2019,L1352397,S56874670
+374,Blackburnian Warbler,1,Hartford Reservoir No. 6,US-CT,07 May 2019,L607644,S55964843
+375,Yellow Warbler,1,Lake Apopka Wildlife Drive,US-FL,25 Jan 2019,L298649,S52039495
+376,Chestnut-sided Warbler,2,Point Ybel Lighthouse Beach Park,US-FL,21 Apr 2019,L127398,S55210235
+377,Blackpoll Warbler,6,Saddleback Mountain,US-ME,30 May 2019,L608589,S56897290
+378,Black-throated Blue Warbler,1,Point Ybel Lighthouse Beach Park,US-FL,21 Apr 2019,L127398,S55210235
+379,Palm Warbler,6,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+380,Pine Warbler,3,"Fort Myers, Florida, US (26.554, -81.889)",US-FL,02 Jan 2019,L8352777,S51229840
+381,Yellow-rumped Warbler,4,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+382,Yellow-throated Warbler,2,Six Mile Cypress Slough Preserve,US-FL,03 Jan 2019,L424819,S51273252
+383,Prairie Warbler,1,Estero Bay Preserve SP--Winkler Point,US-FL,01 Jan 2019,L2589166,S51174840
+384,Black-throated Green Warbler,1,Caloosahatchee Creeks Preserve--East,US-FL,12 Feb 2019,L674344,S52621165
+385,Canada Warbler,1,Frances Slocum SP,US-PA,25 May 2019,L443823,S56716993
+386,Wilson's Warbler,1,Frontera Audubon Center (LTC 058),US-TX,06 Oct 2019,L209876,S60404778
+387,Summer Tanager,1,"Fort Myers, Florida, US (26.554, -81.889)",US-FL,02 Jan 2019,L8352777,S51229840
+388,Scarlet Tanager,1,Pinecraft Park,US-FL,09 Apr 2019,L1877656,S54754035
+389,Northern Cardinal,1,J. N. Ding Darling NWR--Bailey Tract,US-FL,04 Jan 2019,L127399,S51297556
+390,Rose-breasted Grosbeak,3,Fort De Soto Park,US-FL,20 Apr 2019,L127332,S55185808
+391,Blue Grosbeak,5,Point Ybel Lighthouse Beach Park,US-FL,16 Apr 2019,L127398,S55016912
+392,Indigo Bunting,1,"21281 Pearl Street, Alva, Florida, US (26.715, -81.611)",US-FL,29 Jan 2019,L8521054,S52171665
+393,Painted Bunting,1,Orlando Wetlands Park,US-FL,22 Jan 2019,L452007,S51929757
+394,Dickcissel,2,Fort De Soto Park,US-FL,20 Apr 2019,L127332,S55185808
+395,Morelet's Seedeater,1,Salineño Wildlife Preserve (LTC 080),US-TX,08 Oct 2019,L129075,S60453102
